@@ -1,0 +1,168 @@
+//UNIQUE GLOVES
+//[Name] == HeavyGloves		&& [Quality] == Unique && [Flag] != Ethereal				//BLOODFIST
+//[Name] == LightGauntlets 	&& [Quality] == Unique && [Flag] != Ethereal				//MAGEFIST
+//[Name] == ChainGloves	 	&& [Quality] == Unique && [Flag] != Ethereal				//CHANCE GUARDS
+//[Name] == Gauntlets 		&& [Quality] == Unique && [Flag] != Ethereal 				//FROSTBURN
+//[Name] == VampireboneGloves && [Quality] == Unique && [Flag] != Ethereal				//DRACUL'S GRASP
+//[Name] == OgreGauntlets 	&& [Quality] == Unique && [Flag] != Ethereal				//STEELREND
+
+//UNIQUE BELTS
+//[Name] == Sash 			&& [Quality] == Unique && [Flag] != Ethereal				//LENYMO
+//[Name] == HeavyBelt 		&& [Quality] == Unique && [Flag] != Ethereal				//GOLDWRAP
+//[Name] == DemonhideSash 	&& [Quality] == Unique && [Flag] != Ethereal				//STRING OF EARS
+//[Name] == BattleBelt 		&& [Quality] == Unique && [Flag] != Ethereal				//SNOWCLASH
+//[Name] == WarBelt 		&& [Quality] == Unique && [Flag] != Ethereal				//THUNDERGOD'S VIGOR
+//[Name] == SpiderwebSash 	&& [Quality] == Unique && [Flag] != Ethereal				//ARACHNID MESH
+//[Name] == VampirefangBelt && [Quality] == Unique && [Flag] != Ethereal				//NOSFERATU'S COIL
+//[Name] == MithrilCoil 	&& [Quality] == Unique && [Flag] != Ethereal				//VERDUNGO'S HEARTY CORD
+
+//UNIQUE BOOTS
+//[Name] == LightPlatedBoots && [Quality] == Unique && [Flag] != Ethereal				//GOBLIN TOE
+//[Name] == Boots 			&& [Quality] == Unique && [Flag] != Ethereal				//HOTSPUR
+//[Name] == SharkskinBoots 	&& [Quality] == Unique && [Flag] != Ethereal				//WATERWALK
+//[Name] == BattleBoots 	&& [Quality] == Unique && [Flag] != Ethereal				//WAR TRAVELER
+//[Name] == WarBoots 		&& [Quality] == Unique && [Flag] != Ethereal				//GORE RIDER
+//[Name] == ScarabshellBoots && [Quality] == Unique && [Flag] != Ethereal				//SANDSTORM TREK
+//[Name] == ScarabshellBoots && [Quality] == Unique && [Flag] == Ethereal				//ETH SANDSTORM TREK
+//[Name] == BoneweaveBoots 	&& [Quality] == Unique && [Flag] != Ethereal				//MARROWWALK
+//[Name] == MyrmidonGreaves && [Quality] == Unique && [Flag] != Ethereal				//SHADOW DANCER
+
+//UNIQUE HELMS
+//[Name] == Sallet 			&& [Quality] == Unique && [Flag] != Ethereal 				//ROCKSTOPPER
+//[Name] == Sallet 			&& [Quality] == Unique && [Flag] == Ethereal 				//ETH ROCKSTOPPER
+//[Name] == GrandCrown 		&& [Quality] == Unique && [Flag] != Ethereal 				//CROWN OF THIEVES
+//[Name] == GrandCrown 		&& [Quality] == Unique && [Flag] == Ethereal 				//ETH CROWN OF THIEVES
+//[Name] == GrimHelm 		&& [Quality] == Unique && [Flag] != Ethereal 				//VAMPIRE GAZE
+//[Name] == GrimHelm 		&& [Quality] == Unique && [Flag] == Ethereal 				//ETH VAMPIRE GAZE
+//[Name] == Shako 			&& [Quality] == Unique && [Flag] != Ethereal				//HARLEQUIN CREST
+//[Name] == Shako 			&& [Quality] == Unique && [Flag] == Ethereal				//ETH HARLEQUIN CREST
+//[Name] == Demonhead 		&& [Quality] == Unique && [Flag] != Ethereal 				//ANDARIEL'S VISAGE
+//[Name] == Demonhead 		&& [Quality] == Unique && [Flag] == Ethereal 				//ETH ANDARIEL'S VISAGE
+//[Name] == BoneVisage 		&& [Quality] == Unique && [Flag] != Ethereal				//GIANT SKULL
+//[Name] == BoneVisage 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH GIANT SKULL
+//[Name] == Tiara 			&& [Quality] == Unique && [Flag] != Ethereal				//KIRA'S GUARDIAN
+//[Name] == Diadem 			&& [Quality] == Unique && [Flag] != Ethereal				//GRIFFON'S EYE
+//[Name] == Corona 			&& [Quality] == Unique && [Flag] != Ethereal				//CROWN OF AGES
+
+//UNIQUE ARMOR
+//[Name] == SerpentskinArmor && [Quality] == Unique && [Flag] != Ethereal				//SKIN OF THE VIPERMAGI
+//[Name] == Cuirass 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH DURIEL'S SHELL
+//[Name] == MeshArmor 		&& [Quality] == Unique && [Flag] != Ethereal 				//SHAFTSTOP
+//[Name] == MeshArmor 		&& [Quality] == Unique && [Flag] == Ethereal 				//ETH SHAFTSTOP
+//[Name] == RussetArmor	 	&& [Quality] == Unique && [Flag] != Ethereal 				//SKULLDER'S IRE
+//[Name] == RussetArmor	 	&& [Quality] == Unique && [Flag] == Ethereal 				//ETH SKULLDER'S IRE
+//[Name] == TemplarCoat 	&& [Quality] == Unique && [Flag] != Ethereal 				//GUARDIAN ANGEL
+//[Name] == TemplarCoat 	&& [Quality] == Unique && [Flag] == Ethereal 				//ETH GUARDIAN ANGEL
+//[Name] == WireFleece 		&& [Quality] == Unique && [Flag] == Ethereal 				//ETH THE GLADIATOR'S BANE
+//[Name] == BalrogSkin		&& [Quality] == Unique && [Flag] != Ethereal				//ARKAINE'S VALOR
+//[Name] == BalrogSkin		&& [Quality] == Unique && [Flag] == Ethereal				//ETH ARKAINE'S VALOR
+//[Name] == KrakenShell 	&& [Quality] == Unique && [Flag] != Ethereal 				//LEVIATHAN
+//[Name] == ShadowPlate 	&& [Quality] == Unique && [Flag] == Ethereal 				//ETH STEEL CARAPACE
+//[Name] == ChaosArmor 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH BLACK HADES
+//[Name] == SacredArmor 	&& [Quality] == Unique && [Flag] != Ethereal				//TEMPLAR'S MIGHT or TYREAL'S MIGHT
+//[Name] == SacredArmor 	&& [Quality] == Unique && [Flag] == Ethereal				//TEMPLAR'S MIGHT
+
+//UNIQUE SHIELDS
+//[Name] == RoundShield 	&& [Quality] == Unique && [Flag] != Ethereal				//MOSER'S BLESSED CIRCLE
+//[Name] == GrimShield 		&& [Quality] == Unique && [Flag] != Ethereal				//LIDLESS WALL
+//[Name] == GrimShield 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH LIDLESS WALL
+//[Name] == Monarch 		&& [Quality] == Unique && [Flag] != Ethereal				//STORMSHIELD
+
+//UNIQUE DAGGERS
+//[Name] == Dagger 			&& [Quality] == Unique 										//GULL
+//[Name] == BoneKnife 		&& [Quality] == Unique										//WIZARDSPIKE
+
+//UNIQUE SWORDS
+//[Name] == Tulwar 			&& [Quality] == Unique && [Flag] != Ethereal				//BLADE OF ALI BABA
+//[Name] == Tulwar 			&& [Quality] == Unique && [Flag] == Ethereal				//ETH BLADE OF ALI BABA
+
+//UNIQUE AXES
+//[Name] == Cleaver 		&& [Quality] == Unique										//BUTCHER'S PUPIL
+//[Name] == BerserkerAxe 	&& [Quality] == Unique && [Flag] == Ethereal 				//ETH DEATH CLEAVER
+
+//UNIQUE BOWS AND CROSSBOWS
+//[Name] == ShortSiegeBow 	&& [Quality] == Unique										//WITCHWILD STRING
+//[Name] == WardBow 		&& [Quality] == Unique										//WIDOWMAKER
+//[Name] == HydraBow 		&& [Quality] == Unique										//WINDFORCE
+//[Name] == Ballista 		&& [Quality] == Unique										//BURIZA-DO KYANON
+
+//UNIQUE MACES
+//[Name] == TyrantClub 		&& [Quality] == Unique && [Flag] != Ethereal				//DEMON LIMB
+//[Name] == TyrantClub 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH DEMON LIMB
+
+//UNIQUE POLEARMS
+//[Name] == OgreAxe 		&& [Quality] == Unique && [Flag] != Ethereal				//BONEHEW
+//[Name] == OgreAxe 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH BONEHEW
+//[Name] == Thresher 		&& [Quality] == Unique && [Flag] != Ethereal				//THE REAPER'S TOLL
+//[Name] == Thresher		&& [Quality] == Unique && [Flag] == Ethereal				//ETH THE REAPER'S TOLL
+//[Name] == CrypticAxe 		&& [Quality] == Unique && [Flag] != Ethereal 				//TOMB REAVER
+//[Name] == CrypticAxe 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH TOMB REAVER
+
+//UNIQUE SCEPTERS
+//[Name] == MightyScepter 	&& [Quality] == Unique && [Flag] != Ethereal				//HEAVEN'S LIGHT or THE REDEEMER
+//[Name] == Caduceus 		&& [Quality] == Unique && [Flag] != Ethereal				//ASTREON'S IRON WARD
+
+//UNIQUE SPEARS 
+//[Name] == Yari 			&& [Quality] == Unique && [Flag] == Ethereal				//ETH HONE SUNDAN
+
+//UNIQUE STAVES
+//[Name] == Quarterstaff 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH RIBCRACKER
+//[Name] == ElderStaff 		&& [Quality] == Unique && [Flag] != Ethereal				//ONDAL'S WISDOM
+//[Name] == ElderStaff 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH ONDAL'S WISDOM
+//[Name] == ArchonStaff 	&& [Quality] == Unique										//MANG SONG'S LESSON
+
+//UNIQUE THROWING WEAPONS
+//[Name] == WingedKnife 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH WARSHRIKE
+//[Name] == WingedAxe 		&& [Quality] == Unique && [Flag] == Ethereal				//ETH LACERATOR
+
+//UNIQUE WANDS 
+//[Name] == BurntWand 		&& [Quality] == Unique && [Flag] != Ethereal				//SUICIDE BRANCH
+//[Name] == BurntWand		&& [Quality] == Unique && [Flag] == Ethereal				//ETH SUICIDE BRANCH
+
+//UNIQUE AMAZON
+//[Name] == CeremonialJavelin && [Quality] == Unique && [Flag] == Ethereal				//ETH TITAN'S REVENGE
+//[Name] == MatriarchalJavelin && [Quality] == Unique && [Flag] != Ethereal				//THUNDERSTROKE
+
+//UNIQUE NECROMANCER
+//[Name] == HierophantTrophy && [Quality] == Unique && [Flag] != Ethereal 				//HOMUNCULUS
+//[Name] == BloodlordSkull 	&& [Quality] == Unique && [Flag] != Ethereal				//DARKFORCE SPAWN
+//[Name] == SuccubusSkull 	&& [Quality] == Unique && [Flag] != Ethereal 				//BONEFLAME
+
+//UNIQUE BARBARIAN 
+//[Name] == SlayerGuard 	&& [Quality] == Unique && [Flag] != Ethereal				//ARREAT'S FACE
+//[Name] == SlayerGuard 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH ARREAT'S FACE
+//[Name] == FuryVisor 		&& [Quality] == Unique && [Flag] != Ethereal				//WOLFHOWL
+
+//UNIQUE SORCERESS
+//[Name] == SwirlingCrystal && [Quality] == Unique && [Flag] != Ethereal				//THE OCULUS
+//[Name] == SwirlingCrystal && [Quality] == Unique && [Flag] == Ethereal				//ETH THE OCULUS
+//[Name] == EldritchOrb 	&& [Quality] == Unique && [Flag] != Ethereal 				//ESCHUTA'S TEMPER
+//[Name] == EldritchOrb 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH ESCHUTA'S TEMPER
+//[Name] == DimensionalShard && [Quality] == Unique && [Flag] != Ethereal				//DEATH'S FATHOM
+//[Name] == DimensionalShard && [Quality] == Unique && [Flag] == Ethereal				//ETH DEATH'S FATHOM
+
+//UNIQUE DRUID
+//[Name] == TotemicMask 	&& [Quality] == Unique && [Flag] != Ethereal 				//JALAL'S MANE
+//[Name] == BloodSpirit 	&& [Quality] == Unique && [Flag] != Ethereal 				//CEREBUS' BITE
+//[Name] == SkySpirit 		&& [Quality] == Unique && [Flag] != Ethereal 				//RAVENLORE
+
+//UNIQUE PALADIN
+//[Name] == GildedShield 	&& [Quality] == Unique && [Flag] != Ethereal				//HERALD OF ZAKARUM
+//[Name] == GildedShield 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH HERALD OF ZAKARUM
+//[Name] == SacredRondache 	&& [Quality] == Unique && [Flag] != Ethereal 				//ALMA NEGRA
+//[Name] == SacredRondache 	&& [Quality] == Unique && [Flag] == Ethereal				//ETH ALMA NEGRA
+//[Name] == GildedShield 	&& [Quality] == Unique 										//DRAGONSCALE
+
+//UNIQUE JEWELERY
+//[Type] == Amulet 			&& [Quality] == Unique										//ANY UNIQUE AMULET
+//[Type] == Ring 			&& [Quality] == Unique										//ANY UNIQUE RING
+//[Type] == Jewel 			&& [Quality] == Unique										//RAINBOW FACET
+
+//UNIQUE CHARMS
+//[Name] == GrandCharm 		&& [Quality] == Unique										//GHEED'S FORTUNE
+//[Name] == LargeCharm 		&& [Quality] == Unique 										//HELLFIRE TORCH
+[Name] == SmallCharm 		&& [Quality] == Unique										//ANNIHILUS
+
+//MAGIC CHARMS FOR CUBING
+//[Name] == GrandCharm 		&& [Quality] == Magic && [Level] >= 91
+//[Name] == SmallCharm 		&& [Quality] == Magic && [Level] >= 91

@@ -1,0 +1,431 @@
+//MAGIC GRAND CHARMS
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FireSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [ColdSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [LightningSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [TrapsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [ShadowDisciplinesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MartialArtsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [JavelinAndSpearSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [PassiveAndMagicSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [BowAndCrossbowSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [PaliCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [DefensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [OffensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [ElementalSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [ShapeShiftingSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [DruidSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [WarcriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MasteriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [BarbCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [PoisonAndBoneSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [NecromancerSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [CursesSkillTab] >= 1
+
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [FireSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [ColdSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [LightningSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [TrapsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [ShadowDisciplinesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [MartialArtsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [JavelinAndSpearSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [PassiveAndMagicSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [BowAndCrossbowSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [PaliCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [DefensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [OffensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [ElementalSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [ShapeShiftingSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [DruidSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [WarcriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [MasteriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [BarbCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [PoisonAndBoneSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [NecromancerSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FHR] >= 12 && [CursesSkillTab] >= 1
+
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [FireSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [ColdSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [LightningSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [TrapsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [ShadowDisciplinesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [MartialArtsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [JavelinAndSpearSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [PassiveAndMagicSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [BowAndCrossbowSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [PaliCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [DefensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [OffensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [ElementalSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [ShapeShiftingSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [DruidSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [WarcriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [MasteriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [BarbCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [PoisonAndBoneSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [NecromancerSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [FRW] >= 7 && [CursesSkillTab] >= 1
+
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [FireSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ColdSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [LightningSkillTab] >= 1 
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [TrapsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ShadowDisciplinesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [MartialArtsSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [JavelinAndSpearSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [PassiveAndMagicSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [BowAndCrossbowSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [PaliCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [DefensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [OffensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ElementalSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ShapeShiftingSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [DruidSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [WarcriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [MasteriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [BarbCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [PoisonAndBoneSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [NecromancerSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [CursesSkillTab] >= 1
+
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [FireSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [ColdSkillTab] >= 1 
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [LightningSkillTab] >= 1 
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [TrapsSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [ShadowDisciplinesSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [MartialArtsSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [JavelinAndSpearSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [PassiveAndMagicSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [BowAndCrossbowSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [PaliCombatSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [DefensiveAurasSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [OffensiveAurasSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [ElementalSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [ShapeShiftingSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [DruidSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [WarcriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [MasteriesSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [BarbCombatSkillTab] >= 1
+[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [PoisonAndBoneSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [NecromancerSummoningSkillTab] >= 1
+//[Name] == GrandCharm 		&& [Quality] == Magic # [MaxHP] >= 35 && [CursesSkillTab] >= 1
+
+//[Name] == GrandCharm 		&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60
+[Name] == GrandCharm 		&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60 && [FRW] >= 7
+[Name] == GrandCharm 		&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60 && [FHR] >= 12
+[Name] == GrandCharm 		&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60 && [MaxHP] >= 35
+
+[Name] == GrandCharm 		&& [Quality] == Magic # [ToHit] >= 76  && [MaxDamage] >= 14
+[Name] == GrandCharm 		&& [Quality] == Magic # [ToHit] >= 76  && [MaxDamage] >= 10 && [FRW] >= 7
+[Name] == GrandCharm 		&& [Quality] == Magic # [ToHit] >= 76  && [MaxDamage] >= 10 && [FHR] >= 12
+[Name] == GrandCharm 		&& [Quality] == Magic # [ToHit] >= 76  && [MaxDamage] >= 10 && [MaxHP] >= 35
+[Name] == GrandCharm 		&& [Quality] == Magic # [ToHit] >= 132 && [MaxHP] >= 35
+
+//MAGIC SMALL CHARMS
+[Name] == SmallCharm 		&& [Quality] == Magic # [FireMinDam] >= 26 && [FireMaxDam] >= 42
+[Name] == SmallCharm 		&& [Quality] == Magic # [LightMaxDam] >= 99
+[Name] == SmallCharm 		&& [Quality] == Magic # [ColdMinDam] >= 15 && [ColdMaxDam] >= 29
+[Name] == SmallCharm		&& [Quality] == Magic # [PoisonMaxDam] >= 385 //451
+
+[Name] == SmallCharm 		&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 20
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxDamage] >= 4 && [ToHit] >= 20
+
+//[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 20
+[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 20 && [MaxMana] >= 17
+[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 20 && [FireResist] >= 11
+[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 20 && [ColdResist] >= 11
+[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 20 && [LightResist] >= 11
+//[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 20 && [PoisonResist] >= 11
+[Name] == SmallCharm		&& [Quality] == Magic # [MaxHP] >= 19 && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 20
+//[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 15 && [ToHit] >= 15 && [MaxDamage] >= 3
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] == 15 && [ToHit] >= 20 && [MaxDamage] >= 3
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] == 20 && [ToHit] >= 20 && [MaxDamage] >= 3
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ToHit] >= 36
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [FireMinDam] >= 19 && [FireMaxDam] >= 29
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [LightMaxDam] >= 71
+[Name] == SmallCharm 		&& [Quality] == Magic # [MaxHP] >= 20 && [ColdMinDam] >= 10 && [ColdMaxDam] >= 20
+
+//[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [FireResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [ColdResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [LightResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [PoisonResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 20
+[Name] == SmallCharm 		&& [Quality] == Magic # [ItemMagicBonus] >= 7 && [MaxDamage] >= 3 && [ToHit] >= 20
+
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [FireResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [ColdResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [LightResist] >= 11
+//[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [PoisonResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 20
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [ToHit] >= 20 && [MaxDamage] >= 3
+[Name] == SmallCharm 		&& [Quality] == Magic # [FRW] >= 3 && [ToHit] >= 36
+
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [FireResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [ColdResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [LightResist] >= 11
+//[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [PoisonResist] >= 11
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 20
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [ToHit] >= 20 && [MaxDamage] >= 3
+[Name] == SmallCharm 		&& [Quality] == Magic # [FHR] >= 5 && [ToHit] >= 36
+
+//MAGIC JEWELS
+[Type] == Jewel 			&& [Quality] == Magic # (([IAS] >= 15) + ([PlusDefense] >= 64) + ([MaxDamage] >= 15) + ([EnhancedDamage] >= 40) + ([ToHit] >= 100) + ([ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60) + ([MaxMana] >= 20) + ([MaxHP] >= 20)) >= 2
+[Type] == Jewel 			&& [Quality] == Magic # ([Strength] >= 9 || [Dexterity] >= 9 || [ColdResist] >= 30 || [FireResist] >= 30 || [LightResist] >= 30 || [PoisonResist] >= 30 || [FHR] >= 7 || [ItemReqPercent] == -15) && ([IAS] >= 15 || [PlusDefense] >= 64 || [MaxDamage] >= 15 || [EnhancedDamage] >= 40 || [ToHit] >= 100 || [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60 || [MaxMana] >= 20 || [MaxHP] >= 20)
+
+//MAGIC RINGS
+[Type] == Ring 				&& [Quality] == Magic # [ItemMagicBonus] >= 40
+[Type] == Ring 				&& [Quality] == Magic # [FCR] >= 10 && [MaxMana] >= 120
+[Type] == Ring 				&& [Quality] == Magic # [FCR] >= 10 && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 60
+
+//MAGIC AMULETS
+[Type] == Amulet 			&& [Quality] == Magic # [ItemMagicBonus] >= 50
+[Type] == Amulet 			&& [Quality] == Magic # [MaxMana] >= 120 && [NormalDamageReduction] >= 25
+[Type] == Amulet 			&& [Quality] == Magic # [MaxMana] >= 120 && [MaxHP] >= 100
+[Type] == Amulet 			&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120 && [MaxHP] >= 100
+[Type] == Amulet 			&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120 && [ItemMagicBonus] >= 35
+[Type] == Amulet 			&& [Quality] == Magic # [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120 && [FCR] >= 10
+
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddSkillTab] >= 3 && [Strength] >= 30
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddSkillTab] >= 3 && [Dexterity] >= 30
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddSkillTab] >= 3 && [MaxHP] >= 100
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddSkillTab] >= 3 && [FCR] >= 10
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [FireSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [LightningSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [ColdSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [JavelinAndSpearSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [PoisonAndBoneSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [TrapsSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [WarcriesSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Strength] >= 30 && [ElementalSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [FireSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [LightningSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [ColdSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [JavelinAndSpearSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [PoisonAndBoneSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [TrapsSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [WarcriesSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [ElementalSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [FireSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [LightningSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [ColdSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [JavelinAndSpearSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [PoisonAndBoneSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [TrapsSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [WarcriesSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [ElementalSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [FireSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [LightningSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [ColdSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [JavelinAndSpearSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [PoisonAndBoneSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [TrapsSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [WarcriesSkillTab] >= 3
+[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [ElementalSkillTab] >= 3
+
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddClassSkills] >= 2 && [Dexterity] >= 30
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddClassSkills] >= 2 && [MaxHP] >= 100
+//[Type] == Amulet 			&& [Quality] == Magic # [ItemAddClassSkills] >= 2 && [FCR] >= 10
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [SorceressSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [AmazonSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [NecromancerSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [AssassinSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [BarbarianSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [DruidSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [Dexterity] >= 30 && [PaladinSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [SorceressSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [AmazonSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [NecromancerSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [AssassinSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [BarbarianSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [DruidSkills] >= 2
+[Type] == Amulet 			&& [Quality] == Magic # [MaxHP] >= 100 && [PaladinSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [SorceressSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [AmazonSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [NecromancerSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [AssassinSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [BarbarianSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [DruidSkills] >= 2
+//[Type] == Amulet 			&& [Quality] == Magic # [FCR] >= 10 && [PaladinSkills] >= 2
+
+//MAGIC CIRCLETS
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [NormalDamageReduction] >= 25 && [MaxMana] >= 120
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [MaxHP] >= 100
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [NormalDamageReduction] >= 25
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [Dexterity] >= 30
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [FRW] >= 30
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 3 && [FCR] >= 20
+
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [ItemAddSkillTab] >= 3 && [MaxHP] >= 100
+//[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [ItemAddSkillTab] >= 3 && [FCR] >= 20
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [FireSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [ColdSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [LightningSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [JavelinAndSpearSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [PoisonAndBoneSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [TrapsSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [WarcriesSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [ElementalSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [FireSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [ColdSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [LightningSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [JavelinAndSpearSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [PoisonAndBoneSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [TrapsSkillTab] >= 3
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [WarcriesSkillTab] >= 3
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [ElementalSkillTab] >= 3
+
+[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [ItemAddClassSkills] >= 2 && [MaxHP] >= 100
+//[Type] == Circlet 			&& [Quality] == Magic && [Flag] != Ethereal # [ItemAddClassSkills] >= 2 && [FCR] >= 20
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [SorceressSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [AmazonSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [NecromancerSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [AssassinSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [BarbarianSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [DruidSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && [PaladinSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [SorceressSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [AmazonSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [NecromancerSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [AssassinSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [BarbarianSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [DruidSkills] >= 2
+//[Type] == Circlet 		&& [Quality] == Magic && [Flag] != Ethereal # [FCR] >= 20 && [PaladinSkills] >= 2
+
+//MAGIC HELMS
+[Name] == GreatHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40
+[Name] == Crown 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40
+[Name] == WingedHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40
+[Name] == GrandCrown 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40
+[Name] == BoneVisage 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40
+//[Name] == GreatHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40 && [Defense] >= 35
+//[Name] == Crown 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40 && [Defense] >= 45
+//[Name] == WingedHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40 && [Defense] >= 98
+//[Name] == GrandCrown 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40 && [Defense] >= 113
+//[Name] == BoneVisage 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 3 && [MaxHP] >= 40 && [Defense] >= 157
+
+//MAGIC SHIELDS
+[Type] == Shield 			&& [Quality] == Magic && [Flag] == Ethereal && [Class] == Elite # [EnhancedDefense] >= 200 && ([ItemReplenishDurability] >= 1 || [ItemIndestructible] >= 1)
+[Name] == Monarch 			&& [Quality] == Magic # [Sockets] >= 4 && [ItemReqPercent] >= -30
+[Name] == Monarch 			&& [Quality] == Magic # [Sockets] >= 4 && ([ItemSkillOnGetHit] == 44 || [ItemSkillOnGetHit] == 48)
+[Name] == Monarch 			&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120
+[Name] == Monarch 			&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [EnhancedDefense] >= 200
+[Name] == Monarch 			&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [Sockets] >= 4
+//[Name] == TrollNest 		&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120
+//[Name] == TrollNest 		&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [Sockets] >= 3
+[Name] == TrollNest 		&& [Quality] == Magic # ([MaxHP] >= 60 || [FBR] >= 30) && [EnhancedDefense] >= 200
+([Name] == KiteShield || [Name] == TowerShield || [Name] == BoneShield || [Name] == DragonShield || [Name] == GrimShield || [Name] == TrollNest) && [Quality] == Magic && [Flag] != Ethereal # ([MaxHP] >= 60 || [FBR] >= 30) && [ColdResist]+[FireResist]+[LightResist]+[PoisonResist] >= 120
+([Name] == KiteShield || [Name] == TowerShield || [Name] == BoneShield || [Name] == DragonShield || [Name] == GrimShield || [Name] == TrollNest) && [Quality] == Magic && [Flag] != Ethereal # ([MaxHP] >= 60 || [FBR] >= 30) && [Sockets] >= 3
+
+//MAGIC ARMORS
+[Type] == Armor 			&& [Quality] == Magic && [Flag] == Ethereal && [Class] == Elite # [EnhancedDefense] >= 200 && ([ItemReplenishDurability] >= 1 || [ItemIndestructible] >= 1)
+[Type] == Armor 			&& [Quality] == Magic && [Flag] == Ethereal && [Class] == Elite # [EnhancedDefense] >= 190 && [MaxHP] >= 100
+//[Name] == ArchonPlate 	&& [Quality] == Magic && [Flag] == Ethereal # [EnhancedDefense] >= 190 && [MaxHP] >= 100
+//[Name] == SacredArmor 	&& [Quality] == Magic && [Flag] == Ethereal # [EnhancedDefense] >= 190 && [MaxHP] >= 100
+//[Name] == WireFleece 		&& [Quality] == Magic && [Flag] == Ethereal # [EnhancedDefense] >= 190 && [MaxHP] >= 100
+[Name] == BalrogSkin 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([ItemSkillOnGetHit] == 44 || [ItemSkillOnGetHit] == 48) //dark and light blue armors @Heartofthorns
+[Name] == GothicPlate 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([ItemSkillOnGetHit] == 44 || [ItemSkillOnGetHit] == 48)
+[Name] == FullPlateMail 	&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([ItemSkillOnGetHit] == 44 || [ItemSkillOnGetHit] == 48)
+[Name] == AncientArmor		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && ([ItemSkillOnGetHit] == 44 || [ItemSkillOnGetHit] == 48)
+[Name] == ArchonPlate 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+[Name] == WireFleece 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+[Name] == GothicPlate 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+[Name] == FullPlateMail 	&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+[Name] == AncientArmor 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+//[Type] == Armor 			&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [MaxHP] >= 100
+
+//MAGIC GLOVES
+//[Type] == Gloves 			&& [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [JavelinAndSpearSkillTab] == 3
+[Name] == Vambraces 		&& [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [JavelinAndSpearSkillTab] == 3 && [Defense] >= 67
+[Name] == BrambleMitts 		&& [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [JavelinAndSpearSkillTab] == 3 && [Defense] >= 62
+[Name] == VampireboneGloves && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [JavelinAndSpearSkillTab] == 3 && [Defense] >= 65
+
+//MAGIC BOOTS
+[Type] == Boots 			&& [Quality] == Magic && [Flag] == Ethereal && [Class] == Elite # [EnhancedDefense] >= 200 && ([ItemReplenishDurability] >= 1 || [ItemIndestructible] >= 1)
+//[Type] == Boots 			&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40)
+[Name] == ScarabShellBoots 	&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 65
+[Name] == WyrmHideBoots 	&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 62
+[Name] == BattleBoots 		&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 47
+[Name] == SharkskinBoots 	&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 39
+[Name] == WarBoots 			&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 53
+[Name] == HeavyBoots 		&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 6
+[Name] == LightPlatedBoots 	&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 11
+[Name] == Greaves 			&& [Quality] == Magic && [Flag] != Ethereal # ([FRW] >= 40 || [Dexterity] >= 15) && ([ColdResist] >= 40 || [LightResist] >= 40) && [Defense] >= 15
+
+//MAGIC BELTS
+[Type] == Belt 				&& [Quality] == Magic && [Flag] == Ethereal && [Class] == Elite # [EnhancedDefense] >= 200 && ([ItemReplenishDurability] >= 1 || [ItemIndestructible] >= 1)
+[Type] == Belt 				&& [Quality] == Magic && [Flag] != Ethereal # [MaxHP] >= 100 && ([MaxMana] >= 30 || [FireResist] >= 30 || [ColdResist] >= 30 || [LightResist] >= 30)
+
+//MAGIC BOWS
+[Name] == GrandMatronBow 	&& [Quality] == Magic && [Flag] == Ethereal # [BowAndCrossBowSkillTab] >= 3 && [MaxDamage] >= 63 && [EnhancedDamage] >= 300
+[Name] == MatriarchalBow 	&& [Quality] == Magic && [Flag] == Ethereal # [BowAndCrossBowSkillTab] >= 3 && [MaxDamage] >= 63 && [EnhancedDamage] >= 300
+
+//MAGIC SWORDS
+//[Name] == PhaseBlade 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] == 4 && [IAS] >= 40
+[Name] == PhaseBlade 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 4 && [ItemSkillOnAttack] == 66
+[Name] == BalrogBlade 		&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+[Name] == ColossusSword 	&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+[Name] == ColossusBlade 	&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+
+//MAGIC AXES
+[Name] == BerserkerAxe 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 4 && [ItemSkillOnAttack] == 66
+[Name] == BerserkerAxe 		&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+[Name] == Decapitator 		&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+
+//MAGIC MACES
+[Name] == Scourge	 		&& [Quality] == Magic && [Flag] != Ethereal # [Sockets] >= 4 && [ItemSkillOnAttack] == 66
+[Name] == Scourge	 		&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+[Name] == ThunderMaul	 	&& [Quality] == Magic && [Flag] == Ethereal # ([IAS] >= 40 || [MaxDamage] >= 63) && [EnhancedDamage] >= 300
+
+//MAGIC PELTS
+[Type] == Pelt 				&& [Quality] == Magic && [Flag] != Ethereal # [SkillTornado]+[DruidSkills] >= 5 && [MaxHP] >= 50
+[Type] == Pelt 				&& [Quality] == Magic && [Flag] != Ethereal # [SkillTornado]+[DruidSkills] >= 5 && [FHR] >= 10
+[Type] == Pelt 				&& [Quality] == Magic && [Flag] != Ethereal # [SkillTornado]+[ElementalSkillTab] >= 6 && [MaxHP] >= 50
+[Type] == Pelt 				&& [Quality] == Magic && [Flag] != Ethereal # [SkillTornado]+[ElementalSkillTab] >= 6 && [FHR] >= 10
+
+//MAGIC BARBARIAN HELMS
+[Type] == PrimalHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [SkillBattleOrders]+[BarbarianSkills] >= 5 && [MaxHP] >= 90
+[Type] == PrimalHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [SkillBattleOrders]+[BarbarianSkills] >= 5 && [FHR] >= 10
+[Type] == PrimalHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [SkillBattleOrders]+[WarcriesSkillTab] >= 6 && [MaxHP] >= 50
+[Type] == PrimalHelm 		&& [Quality] == Magic && [Flag] != Ethereal # [SkillBattleOrders]+[WarcriesSkillTab] >= 6 && [FHR] >= 10
+
+//MAGIC WARCRY WEAPONS
+//[Name] == ThrowingSpear 	&& [Quality] == Magic # [WarcriesSkillTab] >= 3
+//[Name] == GiantSword 		&& [Quality] == Magic # [WarcriesSkillTab] >= 3
+[Name] == ThrowingSpear 	&& [Quality] == Magic # [WarcriesSkillTab] >= 3 && ([ManaLeech] >= 6 || [LifeLeech] >= 6)						//CRYSTAL RED
+[Name] == GiantSword 		&& [Quality] == Magic # [WarcriesSkillTab] >= 3 && ([ItemSkillOnAttack] == 48 || [ItemSkillOnAttack] == 49)		//CRYSTAL BLUE
+
+//MAGIC SCEPTORS
+[Type] == Scepter 			&& [Quality] == Magic # ([PaladinSkills]+[SkillBlessedHammer] >= 5) 		&& ([SkillConcentration] >= 3 	|| ([FCR] >= 10 && [SkillConcentration] >= 2))
+[Type] == Scepter 			&& [Quality] == Magic # ([PaladinSkills]+[SkillFistOfTheHeavens] >= 5) 		&& ([SkillConviction] >= 3 		|| ([FCR] >= 10 && [SkillConviction] >= 2))
+[Type] == Scepter 			&& [Quality] == Magic # ([PaliCombatSkillTab]+[SkillBlessedHammer] >= 6) 	&& ([SkillConcentration] >= 3 	|| ([FCR] >= 10 && [SkillConcentration] >= 2))
+[Type] == Scepter			&& [Quality] == Magic # ([PaliCombatSkillTab]+[SkillFistOfTheHeavens] >= 6) && ([SkillConviction] >= 3 		|| ([FCR] >= 10 && [SkillConviction] >= 2))
+
+//MAGIC VOODOO HEADS
+[Type] == VoodooHeads 		&& [Quality] == Magic && [Flag] != Ethereal # ([NecromancerSkills] == 2 || [PoisonAndBoneSkillTab] >= 3) && ([SkillBoneSpear] >= 3 || [SkillPoisonNova] >= 3) && ([MaxHP] >= 20 || [FHR] >= 17 || [FBR] == 30)
+
+//MAGIC WANDS
+[Type] == Wand 				&& [Quality] == Magic # [FCR] >= 20 && ([SkillBoneSpear] >= 3 || [SkillPoisonNova] >= 3) && ([SkillDecrepify] >= 1 || [SkillLowerResist] >= 1) && [NecromancerSkills] >= 2
+[Type] == Wand 				&& [Quality] == Magic # [FCR] >= 20 && ([SkillBoneSpear] >= 3 || [SkillPoisonNova] >= 3) && ([SkillDecrepify] >= 1 || [SkillLowerResist] >= 1) && [PoisonAndBoneSkillTab] >= 3
+
+//MAGIC ORBS
+[Type] == Orb 				&& [Quality] == Magic # [SorceressSkills]+[SkillLightning] >= 5   && (([FCR] >= 20 && [SkillLightningMastery] >= 1) || [SkillLightningMastery] >= 3)									//LIGHT
+[Type] == Orb 				&& [Quality] == Magic # [LightningSkillTab]+[SkillLightning] >= 6 && (([FCR] >= 20 && [SkillLightningMastery] >= 1) || [SkillLightningMastery] >= 3)									//LIGHT
+[Type] == Orb 				&& [Quality] == Magic # ([SorceressSkills]+[SkillFrozenOrb] >= 5  || [SorceressSkills]+[SkillBlizzard] >= 5) && (([FCR] >= 20 && [SkillColdMastery] >= 1) || [SkillColdMastery] >= 3)	//COLD
+[Type] == Orb 				&& [Quality] == Magic # ([ColdSkillTab]+[SkillFrozenOrb] >= 6 	  || [ColdSkillTab]+[SkillBlizzard] >=6) 	 && (([FCR] >= 20 && [SkillColdMastery] >= 1) || [SkillColdMastery] >= 3)	//COLD
+[Type] == Orb 				&& [Quality] == Magic # [SorceressSkills]+[SkillFireball] >= 5  											 && (([FCR] >= 20 && [SkillFireMastery] >= 1) || [SkillFireMastery] >= 3)	//FIRE
+[Type] == Orb				&& [Quality] == Magic # ([FireSkillTab]+[SkillEnchant] >= 6 	  || [FireSkillTab]+[SkillFireball] >= 6) 	 && (([FCR] >= 20 && [SkillFireMastery] >= 1) || [SkillFireMastery] >= 3)	//FIRE
+[Type] == Orb 				&& [Quality] == Magic # [FireSkillTab]+[SkillHydra] >= 6 		  && [SkillFireMastery] >= 2																							//FIRE
+
+//MAGIC CLAWS
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # ([IAS] >= 20 || [HPRegen] >= 4) && [SkillLightningSentry]+[AssassinSkills] >= 5
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # ([IAS] >= 20 || [HPRegen] >= 4) && [SkillLightningSentry]+[TrapsSkillTab] >= 6
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # ([IAS] >= 20 || [HPRegen] >= 4) && [SkillWakeOfFire]+[AssassinSkills] >= 5
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # ([IAS] >= 20 || [HPRegen] >= 4) && [SkillWakeOfFire]+[TrapsSkillTab] >= 6
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [Sockets] >= 3 && [SkillLightningSentry] >= 3
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [Sockets] >= 3 && [SkillWakeOfFire] >= 3
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [ItemToHitPerLevel] >= 1 && [SkillLightningSentry] >= 3
+([Name] == GreaterTalons || [Name] == RunicTalons || [Name] == GreaterClaws || [Name] == FeralClaws || [Name] == BladeTalons) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 20 && [ItemToHitPerLevel] >= 1 && [SkillWakeOfFire] >= 3
+
+//MAGIC JAVELINS
+([Name] == MaidenJavelin || [Name] == CeremonialJavelin || [Name] == MatriarchalJavelin) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 40 && [AmazonSkills]+[JavelinAndSpearSkillTab] >= 5
+([Name] == MaidenJavelin || [Name] == CeremonialJavelin || [Name] == MatriarchalJavelin) && [Quality] == Magic && [Flag] != Ethereal # [IAS] >= 40 && [JavelinAndSpearSkillTab] >= 6

@@ -1,0 +1,1467 @@
+[07/29/19 21:21:02] D2BS 29204: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:03] D2BS 15776: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:04] D2BS 14800: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:05] D2BS 16680: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:26] D2BS 28508: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:26] D2BS 19828: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:27] D2BS 30000: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:56] D2BS 27432: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:57] D2BS 7008: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:21:58] D2BS 19644: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:22:23] D2BS 4656: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:22:23] D2BS 24012: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:22:24] D2BS 28452: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:22:25] D2BS 13768: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:08] D2BS 8196: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:09] D2BS 18052: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:10] D2BS 2504: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:45] D2BS 15936: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:49] D2BS 15668: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:23:50] D2BS 33508: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:25:16] D2BS 31144: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:25:17] D2BS 23684: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:25:18] D2BS 25044: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:27:33] D2BS 26824: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:27:33] D2BS 5624: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:27:34] D2BS 32000: D:\Development\d2bot-with-kolbot-sonic\d2bs\kolbot\console (捓楲瑰挮灰, 28)
+[07/29/19 21:29:12] D2BS 4172: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:29:12] D2BS 4172: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:29:12] D2BS 4172: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:29:12] D2BS 4172: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:29:12] D2BS 4172: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:29:12] D2BS 4172: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:29:12] D2BS 4172: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:29:12] D2BS 4172: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:29:12] D2BS 4172: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:29:12] D2BS 4172: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:29:12] D2BS 4172: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:29:12] D2BS 4172: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:29:12] D2BS 4172: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:29:12] D2BS 4172: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:100) ReferenceError: DataFile is not defined
+[07/29/19 21:29:23] D2BS 4172: D2BS Shutdown complete.
+[07/29/19 21:29:24] D2BS 24836: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:29:24] D2BS 24836: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:29:24] D2BS 24836: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:29:24] D2BS 24836: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:29:24] D2BS 24836: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:29:24] D2BS 24836: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:29:24] D2BS 24836: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:29:24] D2BS 24836: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:29:24] D2BS 24836: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:29:24] D2BS 24836: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:29:24] D2BS 24836: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:29:24] D2BS 24836: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:29:24] D2BS 24836: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:29:24] D2BS 24836: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:100) ReferenceError: DataFile is not defined
+[07/29/19 21:29:25] D2BS 24836: D2BS Shutdown complete.
+[07/29/19 21:29:57] D2BS 11660: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:29:57] D2BS 11660: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:29:57] D2BS 11660: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:29:57] D2BS 11660: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:29:57] D2BS 11660: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:29:57] D2BS 11660: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:29:57] D2BS 11660: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:29:57] D2BS 11660: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:29:57] D2BS 11660: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:29:57] D2BS 11660: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:29:57] D2BS 11660: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:29:57] D2BS 11660: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:29:57] D2BS 11660: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:29:57] D2BS 11660: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:29:57] D2BS 11660: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:29:57] D2BS 11660: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:30:07] D2BS 11660: D2BS Shutdown complete.
+[07/29/19 21:30:08] D2BS 9060: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:30:08] D2BS 9060: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:30:08] D2BS 9060: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:30:08] D2BS 9060: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:30:08] D2BS 9060: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:30:08] D2BS 9060: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:30:08] D2BS 9060: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:30:08] D2BS 9060: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:30:08] D2BS 9060: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:30:08] D2BS 9060: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:30:08] D2BS 9060: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:30:08] D2BS 9060: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:30:08] D2BS 9060: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:30:08] D2BS 9060: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:30:08] D2BS 9060: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:30:08] D2BS 9060: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:30:09] D2BS 9060: D2BS Shutdown complete.
+[07/29/19 21:30:25] D2BS 27044: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:30:25] D2BS 27044: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:30:25] D2BS 27044: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:30:25] D2BS 27044: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:30:25] D2BS 27044: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:30:25] D2BS 27044: ÿc2D2BSÿc0 :: Starting D2BotMule.dbj
+[07/29/19 21:30:25] D2BS 27044: ÿc2D2BSÿc0 :: D2BotMule.dbj running.
+[07/29/19 21:30:25] D2BS 27044: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:30:25] D2BS 27044: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:30:25] D2BS 27044: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:30:25] D2BS 27044: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+Line: (null)
+[07/29/19 21:30:25] D2BS 27044: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+[07/29/19 21:30:25] D2BS 27044: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+Line: (null)
+[07/29/19 21:30:25] D2BS 27044: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+[07/29/19 21:30:25] D2BS 27044: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+Line: (null)
+[07/29/19 21:30:25] D2BS 27044: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+[07/29/19 21:30:26] D2BS 27044: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:30:26] D2BS 27044: [ÿc1Errorÿc0 (1)] File(kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+[07/29/19 21:30:34] D2BS 27044: D2BS Shutdown complete.
+[07/29/19 21:33:20] D2BS 32136: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:33:20] D2BS 32136: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:33:20] D2BS 32136: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:33:20] D2BS 32136: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+Line: (null)
+[07/29/19 21:33:20] D2BS 32136: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:33:20] D2BS 32136: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:33:20] D2BS 32136: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+Line: (null)
+[07/29/19 21:33:20] D2BS 32136: ÿc2D2BSÿc0 :: Starting D2BotMule.dbj
+[07/29/19 21:33:20] D2BS 32136: ÿc2D2BSÿc0 :: D2BotMule.dbj running.
+[07/29/19 21:33:20] D2BS 32136: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:33:20] D2BS 32136: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+Line: (null)
+[07/29/19 21:33:20] D2BS 32136: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:33:20] D2BS 32136: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:33:20] D2BS 32136: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+[07/29/19 21:33:20] D2BS 32136: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+[07/29/19 21:33:20] D2BS 32136: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+[07/29/19 21:33:22] D2BS 32136: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:33:22] D2BS 32136: [ÿc1Errorÿc0 (1)] File(kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+[07/29/19 21:33:27] D2BS 32136: D2BS Shutdown complete.
+[07/29/19 21:33:28] D2BS 28948: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:33:28] D2BS 28948: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:33:28] D2BS 28948: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:33:28] D2BS 28948: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:33:28] D2BS 28948: ÿc2D2BSÿc0 :: Starting D2BotMule.dbj
+[07/29/19 21:33:28] D2BS 28948: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:33:28] D2BS 28948: ÿc2D2BSÿc0 :: D2BotMule.dbj running.
+[07/29/19 21:33:28] D2BS 28948: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:33:28] D2BS 28948: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+Line: (null)
+[07/29/19 21:33:28] D2BS 28948: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+Line: (null)
+[07/29/19 21:33:28] D2BS 28948: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+Line: (null)
+[07/29/19 21:33:28] D2BS 28948: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:33:28] D2BS 28948: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:33:28] D2BS 28948: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+[07/29/19 21:33:28] D2BS 28948: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+[07/29/19 21:33:28] D2BS 28948: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+[07/29/19 21:33:29] D2BS 28948: D2BS Shutdown complete.
+[07/29/19 21:33:58] D2BS 7052: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:33:58] D2BS 7052: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:33:58] D2BS 7052: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:33:58] D2BS 7052: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:33:58] D2BS 7052: ÿc2D2BSÿc0 :: Starting D2BotMule.dbj
+[07/29/19 21:33:58] D2BS 7052: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:33:58] D2BS 7052: ÿc2D2BSÿc0 :: D2BotMule.dbj running.
+[07/29/19 21:33:58] D2BS 7052: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:33:58] D2BS 7052: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+Line: (null)
+[07/29/19 21:33:58] D2BS 7052: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+Line: (null)
+[07/29/19 21:33:58] D2BS 7052: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+Line: (null)
+[07/29/19 21:33:58] D2BS 7052: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:33:58] D2BS 7052: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:33:58] D2BS 7052: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+[07/29/19 21:33:58] D2BS 7052: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+[07/29/19 21:33:58] D2BS 7052: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+[07/29/19 21:33:59] D2BS 7052: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:33:59] D2BS 7052: [ÿc1Errorÿc0 (1)] File(kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+[07/29/19 21:34:08] D2BS 7052: D2BS Shutdown complete.
+[07/29/19 21:34:26] D2BS 24732: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:34:26] D2BS 24732: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:34:26] D2BS 24732: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:34:26] D2BS 24732: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:34:26] D2BS 24732: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:34:26] D2BS 24732: ÿc2D2BSÿc0 :: Starting D2BotMule.dbj
+[07/29/19 21:34:26] D2BS 24732: ÿc2D2BSÿc0 :: D2BotMule.dbj running.
+[07/29/19 21:34:26] D2BS 24732: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:34:26] D2BS 24732: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+Line: (null)
+[07/29/19 21:34:26] D2BS 24732: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+Line: (null)
+[07/29/19 21:34:26] D2BS 24732: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+Line: (null)
+[07/29/19 21:34:26] D2BS 24732: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:393) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:34:26] D2BS 24732: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:396) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:34:26] D2BS 24732: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:398) TypeError: malformed UTF-8 character sequence at offset 493
+[07/29/19 21:34:26] D2BS 24732: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:401) TypeError: malformed UTF-8 character sequence at offset 7229
+[07/29/19 21:34:26] D2BS 24732: [ÿc1Errorÿc0 (205)] File(kolbot\d2botmule.dbj:404) TypeError: malformed UTF-8 character sequence at offset 638
+[07/29/19 21:34:27] D2BS 24732: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:34:27] D2BS 24732: [ÿc1Errorÿc0 (1)] File(kolbot\d2botmule.dbj:415) ReferenceError: DataFile is not defined
+[07/29/19 21:34:35] D2BS 24732: D2BS Shutdown complete.
+[07/29/19 21:34:52] D2BS 17288: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:34:52] D2BS 17288: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:34:52] D2BS 17288: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:34:52] D2BS 17288: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:34:52] D2BS 17288: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:34:52] D2BS 17288: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:34:52] D2BS 17288: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:34:52] D2BS 17288: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:34:52] D2BS 17288: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:34:52] D2BS 17288: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:34:52] D2BS 17288: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:34:52] D2BS 17288: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:34:52] D2BS 17288: hi
+[07/29/19 21:34:53] D2BS 17288: json2.js
+[07/29/19 21:34:53] D2BS 17288: OOG.js
+[07/29/19 21:34:53] D2BS 17288: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:34:53] D2BS 17288: automule.js
+[07/29/19 21:34:53] D2BS 17288: gambling.js
+[07/29/19 21:34:53] D2BS 17288: craftingsystem.js
+[07/29/19 21:34:53] D2BS 17288: torchsystem.js
+[07/29/19 21:34:53] D2BS 17288: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:34:53] D2BS 17288: common/misc.js
+[07/29/19 21:34:53] D2BS 17288: common/pather.js
+[07/29/19 21:34:53] D2BS 17288: include/OOG.js
+[07/29/19 21:34:53] D2BS 17288: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:34:53] D2BS 17288: include/polyfill.js
+[07/29/19 21:34:53] D2BS 17288: include/misc.js
+[07/29/19 21:34:53] D2BS 17288: sonic/settings/settings.js
+[07/29/19 21:34:53] D2BS 17288: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:74) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:35:03] D2BS 17288: D2BS Shutdown complete.
+[07/29/19 21:35:04] D2BS 30012: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:35:04] D2BS 30012: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:35:04] D2BS 30012: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:35:04] D2BS 30012: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:35:04] D2BS 30012: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:35:04] D2BS 30012: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:35:04] D2BS 30012: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:35:04] D2BS 30012: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:35:04] D2BS 30012: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:35:04] D2BS 30012: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:35:04] D2BS 30012: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:35:04] D2BS 30012: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:35:04] D2BS 30012: hi
+[07/29/19 21:35:04] D2BS 30012: json2.js
+[07/29/19 21:35:04] D2BS 30012: OOG.js
+[07/29/19 21:35:04] D2BS 30012: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:35:04] D2BS 30012: automule.js
+[07/29/19 21:35:04] D2BS 30012: gambling.js
+[07/29/19 21:35:04] D2BS 30012: craftingsystem.js
+[07/29/19 21:35:04] D2BS 30012: torchsystem.js
+[07/29/19 21:35:04] D2BS 30012: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:35:04] D2BS 30012: common/misc.js
+[07/29/19 21:35:04] D2BS 30012: common/pather.js
+[07/29/19 21:35:04] D2BS 30012: include/OOG.js
+[07/29/19 21:35:04] D2BS 30012: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:35:04] D2BS 30012: include/polyfill.js
+[07/29/19 21:35:04] D2BS 30012: include/misc.js
+[07/29/19 21:35:04] D2BS 30012: sonic/settings/settings.js
+[07/29/19 21:35:04] D2BS 30012: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:74) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:35:05] D2BS 30012: D2BS Shutdown complete.
+[07/29/19 21:35:24] D2BS 31160: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:35:24] D2BS 31160: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:35:24] D2BS 31160: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:35:24] D2BS 31160: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:35:24] D2BS 31160: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:35:24] D2BS 31160: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:35:24] D2BS 31160: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:97) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:35:24] D2BS 31160: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:97) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:35:24] D2BS 31160: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:35:24] D2BS 31160: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:35:24] D2BS 31160: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:97) reference to undefined property SETTINGS.all
+[07/29/19 21:35:24] D2BS 31160: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:97) TypeError: SETTINGS.all is undefined
+[07/29/19 21:35:35] D2BS 31160: D2BS Shutdown complete.
+[07/29/19 21:35:35] D2BS 20144: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:35:35] D2BS 20144: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:35:35] D2BS 20144: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:35:35] D2BS 20144: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:35:35] D2BS 20144: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:35:35] D2BS 20144: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:97) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:97) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:35:35] D2BS 20144: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:35:35] D2BS 20144: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:82) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:35:35] D2BS 20144: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:86) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:35:35] D2BS 20144: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:35:35] D2BS 20144: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:97) reference to undefined property SETTINGS.all
+[07/29/19 21:35:35] D2BS 20144: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:97) TypeError: SETTINGS.all is undefined
+[07/29/19 21:35:39] D2BS 20144: D2BS Shutdown complete.
+[07/29/19 21:36:23] D2BS 2524: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:36:23] D2BS 2524: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:36:23] D2BS 2524: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:36:23] D2BS 2524: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:36:23] D2BS 2524: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:36:23] D2BS 2524: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:36:23] D2BS 2524: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:36:23] D2BS 2524: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:36:23] D2BS 2524: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:36:23] D2BS 2524: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:36:23] D2BS 2524: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:36:23] D2BS 2524: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: hi
+[07/29/19 21:36:23] D2BS 2524: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:36:33] D2BS 2524: D2BS Shutdown complete.
+[07/29/19 21:36:54] D2BS 11692: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:36:54] D2BS 11692: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:36:54] D2BS 11692: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:36:54] D2BS 11692: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:36:54] D2BS 11692: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:36:54] D2BS 11692: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:36:54] D2BS 11692: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:36:54] D2BS 11692: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:36:54] D2BS 11692: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:36:54] D2BS 11692: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:36:54] D2BS 11692: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:36:54] D2BS 11692: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: hi
+[07/29/19 21:36:54] D2BS 11692: sonic/settings/settings.js
+[07/29/19 21:36:54] D2BS 11692: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:37:05] D2BS 11692: D2BS Shutdown complete.
+[07/29/19 21:37:06] D2BS 21040: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:37:06] D2BS 21040: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:37:06] D2BS 21040: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:37:06] D2BS 21040: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:37:06] D2BS 21040: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:37:06] D2BS 21040: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:37:06] D2BS 21040: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:37:06] D2BS 21040: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:37:06] D2BS 21040: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:37:06] D2BS 21040: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:37:06] D2BS 21040: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:37:06] D2BS 21040: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: hi
+[07/29/19 21:37:06] D2BS 21040: sonic/settings/settings.js
+[07/29/19 21:37:06] D2BS 21040: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:72) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:37:07] D2BS 21040: D2BS Shutdown complete.
+[07/29/19 21:37:30] D2BS 30604: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:37:30] D2BS 30604: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:37:30] D2BS 30604: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:37:30] D2BS 30604: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:37:30] D2BS 30604: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:37:30] D2BS 30604: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:37:30] D2BS 30604: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:37:30] D2BS 30604: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:37:30] D2BS 30604: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:37:30] D2BS 30604: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:37:30] D2BS 30604: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:37:30] D2BS 30604: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:37:30] D2BS 30604: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:37:30] D2BS 30604: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:37:30] D2BS 30604: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:37:30] D2BS 30604: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:37:40] D2BS 30604: D2BS Shutdown complete.
+[07/29/19 21:37:41] D2BS 28024: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:37:41] D2BS 28024: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:37:41] D2BS 28024: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:37:41] D2BS 28024: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:37:41] D2BS 28024: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:37:41] D2BS 28024: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:37:41] D2BS 28024: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:37:41] D2BS 28024: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:37:41] D2BS 28024: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:37:41] D2BS 28024: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+ror: ControlAction is not defined
+Line: (null)
+[07/29/19 21:37:41] D2BS 28024: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:37:41] D2BS 28024: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:37:41] D2BS 28024: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:37:41] D2BS 28024: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:37:41] D2BS 28024: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:37:44] D2BS 28024: D2BS Shutdown complete.
+[07/29/19 21:38:22] D2BS 9952: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:38:22] D2BS 9952: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:38:22] D2BS 9952: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:38:22] D2BS 9952: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:38:22] D2BS 9952: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:38:22] D2BS 9952: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:38:22] D2BS 9952: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:38:22] D2BS 9952: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:38:22] D2BS 9952: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:38:22] D2BS 9952: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:38:22] D2BS 9952: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:38:22] D2BS 9952: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:38:22] D2BS 9952: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:38:22] D2BS 9952: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:38:22] D2BS 9952: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:38:22] D2BS 9952: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:38:32] D2BS 9952: D2BS Shutdown complete.
+[07/29/19 21:38:33] D2BS 32464: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:38:33] D2BS 32464: [Strict Warning] Code(156) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+Line: (null)
+[07/29/19 21:38:33] D2BS 32464: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:38:33] D2BS 32464: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:38:33] D2BS 32464: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:38:33] D2BS 32464: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:38:33] D2BS 32464: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:38:33] D2BS 32464: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:38:33] D2BS 32464: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:38:33] D2BS 32464: [ÿc9Strict Warningÿc0 (156)] File(kolbot\d2botsonic.dbj:64) assignment to undeclared variable SETTINGS
+[07/29/19 21:38:33] D2BS 32464: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:38:33] D2BS 32464: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:38:33] D2BS 32464: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:38:33] D2BS 32464: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:38:33] D2BS 32464: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:38:33] D2BS 32464: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:38:34] D2BS 32464: D2BS Shutdown complete.
+[07/29/19 21:39:31] D2BS 3780: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:39:31] D2BS 3780: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:39:31] D2BS 3780: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:39:31] D2BS 3780: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:39:31] D2BS 3780: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:39:31] D2BS 3780: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:39:31] D2BS 3780: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:39:31] D2BS 3780: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:39:31] D2BS 3780: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:39:31] D2BS 3780: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:39:31] D2BS 3780: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:39:31] D2BS 3780: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:39:31] D2BS 3780: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:39:31] D2BS 3780: passwordy
+[07/29/19 21:39:31] D2BS 3780: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:99) ReferenceError: DataFile is not defined
+[07/29/19 21:39:42] D2BS 3780: D2BS Shutdown complete.
+[07/29/19 21:39:42] D2BS 30528: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:39:42] D2BS 30528: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:39:42] D2BS 30528: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:39:42] D2BS 30528: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:39:42] D2BS 30528: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:39:42] D2BS 30528: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:39:42] D2BS 30528: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:39:42] D2BS 30528: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:39:42] D2BS 30528: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:39:42] D2BS 30528: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) ReferenceError: DataFile is not defined
+Line: (null)
+[07/29/19 21:39:42] D2BS 30528: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:39:42] D2BS 30528: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:39:42] D2BS 30528: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:39:42] D2BS 30528: passwordy
+[07/29/19 21:39:42] D2BS 30528: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:99) ReferenceError: DataFile is not defined
+[07/29/19 21:39:43] D2BS 30528: D2BS Shutdown complete.
+[07/29/19 21:39:48] D2BS 26576: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:39:48] D2BS 26576: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:39:48] D2BS 26576: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:39:48] D2BS 26576: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:39:48] D2BS 26576: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:39:48] D2BS 26576: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:39:48] D2BS 26576: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:39:48] D2BS 26576: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:39:48] D2BS 26576: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:39:48] D2BS 26576: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:39:48] D2BS 26576: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:39:48] D2BS 26576: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:39:48] D2BS 26576: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:39:48] D2BS 26576: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:39:59] D2BS 26576: D2BS Shutdown complete.
+[07/29/19 21:39:59] D2BS 29572: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:39:59] D2BS 29572: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+Line: (null)
+[07/29/19 21:39:59] D2BS 29572: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:39:59] D2BS 29572: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+Line: (null)
+[07/29/19 21:39:59] D2BS 29572: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:39:59] D2BS 29572: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:39:59] D2BS 29572: [Error] Code(206) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+Line: (null)
+[07/29/19 21:39:59] D2BS 29572: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:39:59] D2BS 29572: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:39:59] D2BS 29572: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:39:59] D2BS 29572: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 5097
+[07/29/19 21:40:00] D2BS 29572: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:40:00] D2BS 29572: [ÿc1Errorÿc0 (1)] File(kolbot\libs\include\oog.js:7) ReferenceError: ControlAction is not defined
+[07/29/19 21:40:00] D2BS 29572: [ÿc1Errorÿc0 (206)] File(kolbot\d2botsonic.dbj:71) Error: Couldn't open file s: No such file or directory
+[07/29/19 21:40:00] D2BS 29572: D2BS Shutdown complete.
+[07/29/19 21:41:39] D2BS 23916: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:41:39] D2BS 23916: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:41:39] D2BS 23916: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:41:39] D2BS 23916: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:41:39] D2BS 23916: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:41:39] D2BS 23916: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:41:39] D2BS 23916: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:41:39] D2BS 23916: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:98) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:41:39] D2BS 23916: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:98) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:41:39] D2BS 23916: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:41:39] D2BS 23916: {
+[07/29/19 21:41:39] D2BS 23916:   "all": {
+[07/29/19 21:41:39] D2BS 23916:     "account": "",
+[07/29/19 21:41:39] D2BS 23916:     "password": "passwordy",
+[07/29/19 21:41:39] D2BS 23916:     "charName": "",
+[07/29/19 21:41:39] D2BS 23916:     "realm": "useast",
+[07/29/19 21:41:39] D2BS 23916:     "ladder": true,
+[07/29/19 21:41:39] D2BS 23916:     "expansion": true,
+[07/29/19 21:41:39] D2BS 23916:     "hardcore": false,
+[07/29/19 21:41:39] D2BS 23916:     "respecLevel": 24,
+[07/29/19 21:41:39] D2BS 23916:     "beforeRespecBuild": "start",
+[07/29/19 21:41:39] D2BS 23916:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:41:39] D2BS 23916:   },
+[07/29/19 21:41:39] D2BS 23916: 
+[07/29/19 21:41:39] D2BS 23916:   "ESonic1": {
+[07/29/19 21:41:39] D2BS 23916:     "account": "",
+[07/29/19 21:41:39] D2BS 23916:     "password": "passwordy",
+[07/29/19 21:41:39] D2BS 23916:     "charName": "",
+[07/29/19 21:41:39] D2BS 23916:     "realm": "useast",
+[07/29/19 21:41:39] D2BS 23916:     "ladder": true,
+[07/29/19 21:41:39] D2BS 23916:     "expansion": true,
+[07/29/19 21:41:39] D2BS 23916:     "hardcore": false,
+[07/29/19 21:41:39] D2BS 23916:     "respecLevel": 24,
+[07/29/19 21:41:39] D2BS 23916:     "beforeRespecBuild": "start",
+[07/29/19 21:41:39] D2BS 23916:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:41:39] D2BS 23916:   },
+[07/29/19 21:41:39] D2BS 23916: 
+[07/29/19 21:41:39] D2BS 23916:   "ESonic2": {
+[07/29/19 21:41:39] D2BS 23916:     "account": "",
+[07/29/19 21:41:39] D2BS 23916:     "password": "passwordy",
+[07/29/19 21:41:39] D2BS 23916:     "charName": "",
+[07/29/19 21:41:39] D2BS 23916:     "realm": "useast",
+[07/29/19 21:41:39] D2BS 23916:     "ladder": true,
+[07/29/19 21:41:39] D2BS 23916:     "expansion": true,
+[07/29/19 21:41:39] D2BS 23916:     "hardcore": false,
+[07/29/19 21:41:39] D2BS 23916:     "respecLevel": 24,
+[07/29/19 21:41:39] D2BS 23916:     "beforeRespecBuild": "start",
+[07/29/19 21:41:39] D2BS 23916:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:41:39] D2BS 23916:   }
+[07/29/19 21:41:39] D2BS 23916: }
+[07/29/19 21:41:39] D2BS 23916: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:98) reference to undefined property SETTINGS.all
+[07/29/19 21:41:39] D2BS 23916: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:98) TypeError: SETTINGS.all is undefined
+[07/29/19 21:41:47] D2BS 23916: D2BS Shutdown complete.
+[07/29/19 21:42:08] D2BS 28792: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:42:08] D2BS 28792: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:42:08] D2BS 28792: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:42:08] D2BS 28792: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:42:08] D2BS 28792: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:77) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:42:08] D2BS 28792: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:42:08] D2BS 28792: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:42:08] D2BS 28792: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:42:08] D2BS 28792: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:42:08] D2BS 28792: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:77) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:42:08] D2BS 28792: [object Object]
+[07/29/19 21:42:08] D2BS 28792: {
+[07/29/19 21:42:08] D2BS 28792:   "all": {
+[07/29/19 21:42:08] D2BS 28792:     "account": "",
+[07/29/19 21:42:08] D2BS 28792:     "password": "passwordy",
+[07/29/19 21:42:08] D2BS 28792:     "charName": "",
+[07/29/19 21:42:08] D2BS 28792:     "realm": "useast",
+[07/29/19 21:42:09] D2BS 28792:     "ladder": true,
+[07/29/19 21:42:09] D2BS 28792:     "expansion": true,
+[07/29/19 21:42:09] D2BS 28792:     "hardcore": false,
+[07/29/19 21:42:09] D2BS 28792:     "respecLevel": 24,
+[07/29/19 21:42:09] D2BS 28792:     "beforeRespecBuild": "start",
+[07/29/19 21:42:09] D2BS 28792:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:09] D2BS 28792:   },
+[07/29/19 21:42:09] D2BS 28792: 
+[07/29/19 21:42:09] D2BS 28792:   "ESonic1": {
+[07/29/19 21:42:09] D2BS 28792:     "account": "",
+[07/29/19 21:42:09] D2BS 28792:     "password": "passwordy",
+[07/29/19 21:42:09] D2BS 28792:     "charName": "",
+[07/29/19 21:42:09] D2BS 28792:     "realm": "useast",
+[07/29/19 21:42:09] D2BS 28792:     "ladder": true,
+[07/29/19 21:42:09] D2BS 28792:     "expansion": true,
+[07/29/19 21:42:09] D2BS 28792:     "hardcore": false,
+[07/29/19 21:42:09] D2BS 28792:     "respecLevel": 24,
+[07/29/19 21:42:09] D2BS 28792:     "beforeRespecBuild": "start",
+[07/29/19 21:42:09] D2BS 28792:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:09] D2BS 28792:   },
+[07/29/19 21:42:09] D2BS 28792: 
+[07/29/19 21:42:09] D2BS 28792:   "ESonic2": {
+[07/29/19 21:42:09] D2BS 28792:     "account": "",
+[07/29/19 21:42:09] D2BS 28792:     "password": "passwordy",
+[07/29/19 21:42:09] D2BS 28792:     "charName": "",
+[07/29/19 21:42:09] D2BS 28792:     "realm": "useast",
+[07/29/19 21:42:09] D2BS 28792:     "ladder": true,
+[07/29/19 21:42:09] D2BS 28792:     "expansion": true,
+[07/29/19 21:42:09] D2BS 28792:     "hardcore": false,
+[07/29/19 21:42:09] D2BS 28792:     "respecLevel": 24,
+[07/29/19 21:42:09] D2BS 28792:     "beforeRespecBuild": "start",
+[07/29/19 21:42:09] D2BS 28792:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:09] D2BS 28792:   }
+[07/29/19 21:42:09] D2BS 28792: }
+[07/29/19 21:42:09] D2BS 28792: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:100) reference to undefined property SETTINGS.all
+[07/29/19 21:42:09] D2BS 28792: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:100) TypeError: SETTINGS.all is undefined
+[07/29/19 21:42:17] D2BS 28792: D2BS Shutdown complete.
+[07/29/19 21:42:24] D2BS 26284: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:42:24] D2BS 26284: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:42:24] D2BS 26284: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:77) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:42:24] D2BS 26284: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:42:24] D2BS 26284: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:42:24] D2BS 26284: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:42:24] D2BS 26284: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:42:24] D2BS 26284: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:42:24] D2BS 26284: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:100) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:42:24] D2BS 26284: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:77) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:42:24] D2BS 26284: passwordy
+[07/29/19 21:42:24] D2BS 26284: {
+[07/29/19 21:42:24] D2BS 26284:   "all": {
+[07/29/19 21:42:24] D2BS 26284:     "account": "",
+[07/29/19 21:42:24] D2BS 26284:     "password": "passwordy",
+[07/29/19 21:42:24] D2BS 26284:     "charName": "",
+[07/29/19 21:42:24] D2BS 26284:     "realm": "useast",
+[07/29/19 21:42:24] D2BS 26284:     "ladder": true,
+[07/29/19 21:42:24] D2BS 26284:     "expansion": true,
+[07/29/19 21:42:24] D2BS 26284:     "hardcore": false,
+[07/29/19 21:42:24] D2BS 26284:     "respecLevel": 24,
+[07/29/19 21:42:24] D2BS 26284:     "beforeRespecBuild": "start",
+[07/29/19 21:42:24] D2BS 26284:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:24] D2BS 26284:   },
+[07/29/19 21:42:24] D2BS 26284: 
+[07/29/19 21:42:24] D2BS 26284:   "ESonic1": {
+[07/29/19 21:42:24] D2BS 26284:     "account": "",
+[07/29/19 21:42:24] D2BS 26284:     "password": "passwordy",
+[07/29/19 21:42:24] D2BS 26284:     "charName": "",
+[07/29/19 21:42:24] D2BS 26284:     "realm": "useast",
+[07/29/19 21:42:24] D2BS 26284:     "ladder": true,
+[07/29/19 21:42:24] D2BS 26284:     "expansion": true,
+[07/29/19 21:42:24] D2BS 26284:     "hardcore": false,
+[07/29/19 21:42:24] D2BS 26284:     "respecLevel": 24,
+[07/29/19 21:42:24] D2BS 26284:     "beforeRespecBuild": "start",
+[07/29/19 21:42:24] D2BS 26284:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:24] D2BS 26284:   },
+[07/29/19 21:42:24] D2BS 26284: 
+[07/29/19 21:42:24] D2BS 26284:   "ESonic2": {
+[07/29/19 21:42:24] D2BS 26284:     "account": "",
+[07/29/19 21:42:24] D2BS 26284:     "password": "passwordy",
+[07/29/19 21:42:24] D2BS 26284:     "charName": "",
+[07/29/19 21:42:24] D2BS 26284:     "realm": "useast",
+[07/29/19 21:42:24] D2BS 26284:     "ladder": true,
+[07/29/19 21:42:24] D2BS 26284:     "expansion": true,
+[07/29/19 21:42:24] D2BS 26284:     "hardcore": false,
+[07/29/19 21:42:24] D2BS 26284:     "respecLevel": 24,
+[07/29/19 21:42:24] D2BS 26284:     "beforeRespecBuild": "start",
+[07/29/19 21:42:24] D2BS 26284:     "afterRespecbuild": "xblizzard"
+[07/29/19 21:42:24] D2BS 26284:   }
+[07/29/19 21:42:24] D2BS 26284: }
+[07/29/19 21:42:24] D2BS 26284: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:100) reference to undefined property SETTINGS.all
+[07/29/19 21:42:24] D2BS 26284: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:100) TypeError: SETTINGS.all is undefined
+[07/29/19 21:42:33] D2BS 26284: D2BS Shutdown complete.
+[07/29/19 21:42:39] D2BS 28324: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:42:39] D2BS 28324: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:42:39] D2BS 28324: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:42:39] D2BS 28324: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:42:39] D2BS 28324: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:42:39] D2BS 28324: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:42:39] D2BS 28324: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:42:39] D2BS 28324: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:42:39] D2BS 28324: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:42:39] D2BS 28324: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:42:39] D2BS 28324: passwordy
+[07/29/19 21:42:39] D2BS 28324: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:99) reference to undefined property SETTINGS.all
+[07/29/19 21:42:39] D2BS 28324: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:99) TypeError: SETTINGS.all is undefined
+[07/29/19 21:42:50] D2BS 28324: D2BS Shutdown complete.
+[07/29/19 21:42:50] D2BS 17412: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:42:50] D2BS 17412: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:42:50] D2BS 17412: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:42:50] D2BS 17412: [Strict Warning] Code(162) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) reference to undefined property SETTINGS.all
+Line: (null)
+[07/29/19 21:42:50] D2BS 17412: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:42:50] D2BS 17412: [Error] Code(222) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:99) TypeError: SETTINGS.all is undefined
+Line: (null)
+[07/29/19 21:42:50] D2BS 17412: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:42:50] D2BS 17412: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:42:50] D2BS 17412: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:76) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:42:50] D2BS 17412: passwordy
+[07/29/19 21:42:50] D2BS 17412: [ÿc9Strict Warningÿc0 (162)] File(kolbot\d2botsonic.dbj:99) reference to undefined property SETTINGS.all
+[07/29/19 21:42:50] D2BS 17412: [ÿc1Errorÿc0 (222)] File(kolbot\d2botsonic.dbj:99) TypeError: SETTINGS.all is undefined
+[07/29/19 21:43:31] D2BS 2504: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:43:31] D2BS 2504: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:43:31] D2BS 2504: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:43:31] D2BS 2504: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:43:31] D2BS 2504: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:43:31] D2BS 2504: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:43:31] D2BS 2504: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:43:31] D2BS 2504: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:43:31] D2BS 2504: passwordy
+[07/29/19 21:43:34] D2BS 2504: aaaa1
+[07/29/19 21:43:35] D2BS 2504: [Error] Code(205) File(<unknown>:0) malformed UTF-8 character sequence at offset 418
+Line: (null)
+[07/29/19 21:43:36] D2BS 20440: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:43:36] D2BS 20440: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:43:36] D2BS 20440: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:43:36] D2BS 20440: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:43:36] D2BS 20440: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:43:36] D2BS 20440: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:43:36] D2BS 20440: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:43:36] D2BS 20440: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:75) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:43:36] D2BS 20440: passwordy
+[07/29/19 21:43:39] D2BS 20440: D2BS Shutdown complete.
+[07/29/19 21:45:59] D2BS 14896: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:45:59] D2BS 14896: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:45:59] D2BS 14896: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:45:59] D2BS 14896: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:45:59] D2BS 14896: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:45:59] D2BS 14896: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:45:59] D2BS 14896: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:45:59] D2BS 14896: function include() {
+[07/29/19 21:45:59] D2BS 14896:     [native code]
+[07/29/19 21:45:59] D2BS 14896: }
+[07/29/19 21:46:03] D2BS 14896: aaaa1
+[07/29/19 21:46:04] D2BS 14896: [Error] Code(205) File(<unknown>:0) malformed UTF-8 character sequence at offset 418
+Line: (null)
+[07/29/19 21:46:04] D2BS 11132: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:46:04] D2BS 11132: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:46:04] D2BS 11132: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:46:04] D2BS 11132: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:46:04] D2BS 11132: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:46:04] D2BS 11132: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:46:04] D2BS 11132: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:74) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:05] D2BS 11132: function include() {
+[07/29/19 21:46:05] D2BS 11132:     [native code]
+[07/29/19 21:46:05] D2BS 11132: }
+[07/29/19 21:46:06] D2BS 11132: D2BS Shutdown complete.
+[07/29/19 21:46:20] D2BS 17012: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:46:20] D2BS 17012: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:46:20] D2BS 17012: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:46:20] D2BS 17012: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:46:20] D2BS 17012: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:46:20] D2BS 17012: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:46:20] D2BS 17012: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:46:20] D2BS 17012: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:46:23] D2BS 17012: aaaa1
+[07/29/19 21:46:24] D2BS 17012: [Error] Code(205) File(<unknown>:0) malformed UTF-8 character sequence at offset 418
+Line: (null)
+[07/29/19 21:46:25] D2BS 17480: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:46:25] D2BS 17480: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:46:25] D2BS 17480: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:46:25] D2BS 17480: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:46:25] D2BS 17480: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:46:25] D2BS 17480: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:46:25] D2BS 17480: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:46:25] D2BS 17480: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:46:26] D2BS 17480: D2BS Shutdown complete.
+[07/29/19 21:47:08] D2BS 28068: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:47:08] D2BS 28068: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:47:09] D2BS 28068: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:47:09] D2BS 28068: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:47:09] D2BS 28068: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:47:09] D2BS 28068: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:47:09] D2BS 28068: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:47:09] D2BS 28068: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:47:09] D2BS 28068: test
+[07/29/19 21:47:12] D2BS 28068: aaaa1
+[07/29/19 21:47:13] D2BS 28068: [Error] Code(205) File(<unknown>:0) malformed UTF-8 character sequence at offset 418
+Line: (null)
+[07/29/19 21:47:14] D2BS 27248: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:47:14] D2BS 27248: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:47:14] D2BS 27248: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:47:14] D2BS 27248: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:47:14] D2BS 27248: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:47:14] D2BS 27248: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:47:14] D2BS 27248: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:47:14] D2BS 27248: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:47:14] D2BS 27248: test
+[07/29/19 21:47:14] D2BS 27248: D2BS Shutdown complete.
+[07/29/19 21:48:50] D2BS 2772: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:48:50] D2BS 2772: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:48:50] D2BS 2772: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:48:50] D2BS 2772: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:48:50] D2BS 2772: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:48:50] D2BS 2772: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:48:50] D2BS 2772: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:48:50] D2BS 2772: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:48:53] D2BS 2772: aaaa1
+[07/29/19 21:48:55] D2BS 2772: Recieved Game Info
+[07/29/19 21:48:55] D2BS 2772: [Error] Code(205) File(<unknown>:0) malformed UTF-8 character sequence at offset 418
+Line: (null)
+[07/29/19 21:48:56] D2BS 688: D2BS Engine startup complete. 1.6.3U
+[07/29/19 21:48:56] D2BS 688: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:48:56] D2BS 688: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:48:56] D2BS 688: [Error] Code(205) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+Line: (null)
+[07/29/19 21:48:56] D2BS 688: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:48:56] D2BS 688: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:48:56] D2BS 688: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:48:56] D2BS 688: [ÿc1Errorÿc0 (205)] File(kolbot\d2botsonic.dbj:73) TypeError: malformed UTF-8 character sequence at offset 3083
+[07/29/19 21:48:57] D2BS 688: D2BS Shutdown complete.
+[07/29/19 21:58:15] D2BS 28536: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 21:58:15] D2BS 28536: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:58:15] D2BS 28536: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:58:15] D2BS 28536: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:58:15] D2BS 28536: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:58:15] D2BS 28536: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:58:19] D2BS 28536: aaaa1
+[07/29/19 21:58:20] D2BS 28536: Heartbeat loaded
+[07/29/19 21:58:20] D2BS 28536: Recieved Game Info
+[07/29/19 21:58:25] D2BS 28536: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:632) ReferenceError: account is not defined
+Line: (null)
+[07/29/19 21:58:25] D2BS 28536: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:632) ReferenceError: account is not defined
+[07/29/19 21:58:35] D2BS 28536: D2BS Shutdown complete.
+[07/29/19 21:58:57] D2BS 24260: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:58:57] D2BS 24260: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 21:58:57] D2BS 24260: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:58:57] D2BS 24260: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:58:57] D2BS 24260: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:58:57] D2BS 24260: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:59:01] D2BS 24260: aaaa1
+[07/29/19 21:59:01] D2BS 24260: Recieved Game Info
+[07/29/19 21:59:01] D2BS 24260: Heartbeat loaded
+[07/29/19 21:59:07] D2BS 24260: [Error] Code(1) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\d2botsonic.dbj:632) ReferenceError: account is not defined
+Line: (null)
+[07/29/19 21:59:07] D2BS 24260: [ÿc1Errorÿc0 (1)] File(kolbot\d2botsonic.dbj:632) ReferenceError: account is not defined
+[07/29/19 21:59:17] D2BS 24260: D2BS Shutdown complete.
+[07/29/19 21:59:47] D2BS 21660: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 21:59:47] D2BS 21660: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:59:47] D2BS 21660: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:59:47] D2BS 21660: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:59:47] D2BS 21660: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:59:47] D2BS 21660: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:59:53] D2BS 21660: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 21:59:53] D2BS 21660: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected 
+[07/29/19 21:59:53] D2BS 21660:  end of data
+[07/29/19 21:59:57] D2BS 21660: D2BS Shutdown complete.
+[07/29/19 21:59:58] D2BS 27588: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 21:59:58] D2BS 27588: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 21:59:58] D2BS 27588: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 21:59:58] D2BS 27588: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 21:59:58] D2BS 27588: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 21:59:58] D2BS 27588: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 21:59:59] D2BS 27588: D2BS Shutdown complete.
+[07/29/19 22:01:46] D2BS 29968: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:01:46] D2BS 29968: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:01:46] D2BS 29968: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:01:46] D2BS 29968: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:01:46] D2BS 29968: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:01:46] D2BS 29968: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:01:52] D2BS 29968: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:01:52] D2BS 29968: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:01:52] D2BS 29968:  end of data
+[07/29/19 22:02:00] D2BS 29968: D2BS Shutdown complete.
+[07/29/19 22:02:00] D2BS 9448: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:02:00] D2BS 9448: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:02:00] D2BS 9448: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:02:00] D2BS 9448: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:02:00] D2BS 9448: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:02:00] D2BS 9448: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:02:01] D2BS 9448: D2BS Shutdown complete.
+[07/29/19 22:03:07] D2BS 19088: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:03:07] D2BS 19088: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:03:07] D2BS 19088: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:03:07] D2BS 19088: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:03:07] D2BS 19088: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:03:07] D2BS 19088: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:03:11] D2BS 19088: libs/sonic/data/aaaa1.json
+[07/29/19 22:03:14] D2BS 19088: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:03:14] D2BS 19088: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:03:14] D2BS 19088:  end of data
+[07/29/19 22:03:18] D2BS 19088: D2BS Shutdown complete.
+[07/29/19 22:03:19] D2BS 3188: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:03:19] D2BS 3188: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:03:19] D2BS 3188: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:03:19] D2BS 3188: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:03:19] D2BS 3188: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:03:19] D2BS 3188: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:03:22] D2BS 3188: libs/sonic/data/aaaa1.json
+[07/29/19 22:03:25] D2BS 3188: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:03:25] D2BS 3188: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:03:25] D2BS 3188:  end of data
+[07/29/19 22:03:26] D2BS 3188: D2BS Shutdown complete.
+[07/29/19 22:03:57] D2BS 18948: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:03:57] D2BS 18948: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:03:57] D2BS 18948: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:03:57] D2BS 18948: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:03:57] D2BS 18948: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:03:57] D2BS 18948: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:03:57] D2BS 18948: hi
+[07/29/19 22:04:00] D2BS 18948: libs/sonic/data/aaaa1.json
+[07/29/19 22:04:03] D2BS 18948: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:04:03] D2BS 18948: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:04:03] D2BS 18948:  end of data
+[07/29/19 22:04:07] D2BS 18948: D2BS Shutdown complete.
+[07/29/19 22:07:09] D2BS 5080: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:07:09] D2BS 5080: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:07:09] D2BS 5080: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:07:09] D2BS 5080: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:07:09] D2BS 5080: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:07:09] D2BS 5080: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:07:09] D2BS 5080: hi
+[07/29/19 22:07:13] D2BS 5080: libs/sonic/data/aaaa1.json
+[07/29/19 22:07:16] D2BS 5080: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:07:16] D2BS 5080: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:07:16] D2BS 5080:  end of data
+[07/29/19 22:07:21] D2BS 5080: D2BS Shutdown complete.
+[07/29/19 22:07:21] D2BS 20352: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:07:21] D2BS 20352: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:07:21] D2BS 20352: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:07:21] D2BS 20352: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:07:21] D2BS 20352: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:07:21] D2BS 20352: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:07:21] D2BS 20352: hi
+[07/29/19 22:07:24] D2BS 20352: D2BS Shutdown complete.
+[07/29/19 22:07:38] D2BS 16784: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:07:38] D2BS 16784: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:07:38] D2BS 16784: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:07:38] D2BS 16784: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:07:38] D2BS 16784: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:07:38] D2BS 16784: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:07:38] D2BS 16784: hi
+[07/29/19 22:07:38] D2BS 16784: [object Object]
+[07/29/19 22:07:42] D2BS 16784: libs/sonic/data/aaaa1.json
+[07/29/19 22:07:45] D2BS 16784: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:07:45] D2BS 16784: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:50) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:07:45] D2BS 16784:  end of data
+[07/29/19 22:07:47] D2BS 16784: D2BS Shutdown complete.
+[07/29/19 22:08:09] D2BS 24520: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:08:09] D2BS 24520: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:08:10] D2BS 24520: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:08:10] D2BS 24520: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:08:10] D2BS 24520: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:08:10] D2BS 24520: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:08:10] D2BS 24520: hi
+[07/29/19 22:08:10] D2BS 24520: shm5p2ygssl6sw8
+[07/29/19 22:08:13] D2BS 24520: libs/sonic/data/aaaa1.json
+[07/29/19 22:08:16] D2BS 24520: D2BS Shutdown complete.
+[07/29/19 22:09:17] D2BS 5620: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:09:17] D2BS 5620: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:09:17] D2BS 5620: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:09:17] D2BS 5620: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:09:17] D2BS 5620: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:09:17] D2BS 5620: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:09:17] D2BS 5620: hi
+[07/29/19 22:09:17] D2BS 5620: libs/sonic/data/aaaa1.json
+[07/29/19 22:09:17] D2BS 5620: [object Object]
+[07/29/19 22:09:20] D2BS 5620: libs/sonic/data/aaaa1.json
+[07/29/19 22:09:24] D2BS 5620: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:52) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:09:24] D2BS 5620: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:52) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:09:24] D2BS 5620:  end of data
+[07/29/19 22:09:28] D2BS 5620: D2BS Shutdown complete.
+[07/29/19 22:09:29] D2BS 29668: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:09:29] D2BS 29668: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:09:29] D2BS 29668: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:09:29] D2BS 29668: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:09:29] D2BS 29668: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:09:29] D2BS 29668: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:09:29] D2BS 29668: hi
+[07/29/19 22:09:29] D2BS 29668: libs/sonic/data/aaaa1.json
+[07/29/19 22:09:29] D2BS 29668: [object Object]
+[07/29/19 22:09:30] D2BS 29668: D2BS Shutdown complete.
+[07/29/19 22:10:29] D2BS 33712: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:10:29] D2BS 33712: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:10:29] D2BS 33712: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:10:29] D2BS 33712: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:10:29] D2BS 33712: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:10:29] D2BS 33712: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:10:29] D2BS 33712: hi
+[07/29/19 22:10:35] D2BS 33712: [Error] Code(228) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected end of data
+Line: (null)
+[07/29/19 22:10:35] D2BS 33712: [ÿc1Errorÿc0 (228)] File(kolbot\libs\include\misc.js:49) SyntaxError: JSON.parse: unexpected 
+[07/29/19 22:10:35] D2BS 33712:  end of data
+[07/29/19 22:10:37] D2BS 33712: D2BS Shutdown complete.
+[07/29/19 22:10:53] D2BS 32688: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:10:53] D2BS 32688: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:10:53] D2BS 32688: aaaa1
+[07/29/19 22:10:53] D2BS 32688: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:10:53] D2BS 32688: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:10:53] D2BS 32688: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:10:53] D2BS 32688: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:10:53] D2BS 32688: hi
+[07/29/19 22:10:55] D2BS 32688: Heartbeat loaded
+[07/29/19 22:10:55] D2BS 32688: Recieved Game Info
+[07/29/19 22:11:13] D2BS 32688: D2BS Shutdown complete.
+[07/29/19 22:11:14] D2BS 19340: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:11:14] D2BS 19340: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:11:14] D2BS 19340: aaaa1
+[07/29/19 22:11:14] D2BS 19340: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:11:14] D2BS 19340: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:11:14] D2BS 19340: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:11:14] D2BS 19340: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:11:16] D2BS 19340: Heartbeat loaded
+[07/29/19 22:11:16] D2BS 19340: Recieved Game Info
+[07/29/19 22:11:17] D2BS 19340: D2BS Shutdown complete.
+[07/29/19 22:13:12] D2BS 17528: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:13:12] D2BS 17528: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:13:12] D2BS 17528: aaaa1
+[07/29/19 22:13:12] D2BS 17528: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:13:12] D2BS 17528: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:13:12] D2BS 17528: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:13:12] D2BS 17528: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:13:12] D2BS 17528: hi
+[07/29/19 22:13:14] D2BS 17528: Heartbeat loaded
+[07/29/19 22:13:14] D2BS 17528: Recieved Game Info
+[07/29/19 22:13:24] D2BS 17528: D2BS Shutdown complete.
+[07/29/19 22:15:30] D2BS 32308: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:15:30] D2BS 32308: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:15:30] D2BS 32308: aaaa1
+[07/29/19 22:15:30] D2BS 32308: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:15:30] D2BS 32308: ÿc2D2BSÿc0 :: Switched to profile aaaa1
+[07/29/19 22:15:30] D2BS 32308: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:15:30] D2BS 32308: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:15:32] D2BS 32308: Recieved Game Info
+[07/29/19 22:15:32] D2BS 32308: Heartbeat loaded
+[07/29/19 22:15:44] D2BS 32308: 10
+[07/29/19 22:15:45] D2BS 32308: D2BS Shutdown complete.
+[07/29/19 22:15:53] D2BS 31396: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:15:53] D2BS 31396: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:15:53] D2BS 31396: sonic
+[07/29/19 22:15:53] D2BS 31396: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:15:53] D2BS 31396: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:15:53] D2BS 31396: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:15:53] D2BS 31396: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:15:55] D2BS 31396: Recieved Game Info
+[07/29/19 22:15:55] D2BS 31396: Heartbeat loaded
+[07/29/19 22:16:28] D2BS 31396: Creating Game: 73okr6fot2f7ira
+[07/29/19 22:16:36] D2BS 31396: D2BS Shutdown complete.
+[07/29/19 22:16:38] D2BS 16344: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:16:38] D2BS 16344: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:16:38] D2BS 16344: sonic
+[07/29/19 22:16:38] D2BS 16344: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:16:38] D2BS 16344: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:16:38] D2BS 16344: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:16:38] D2BS 16344: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:16:39] D2BS 16344: Recieved Game Info
+[07/29/19 22:16:39] D2BS 16344: Heartbeat loaded
+[07/29/19 22:17:03] D2BS 16344: Creating Game: e7j6bbvuu34cjol
+[07/29/19 22:20:23] D2BS 27184: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:20:23] D2BS 27184: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:20:23] D2BS 27184: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:20:23] D2BS 27184: ÿc2D2BSÿc0 :: Profile sonic not found
+[07/29/19 22:20:33] D2BS 27184: D2BS Shutdown complete.
+[07/29/19 22:20:34] D2BS 27048: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:20:34] D2BS 27048: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:20:34] D2BS 27048: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:20:34] D2BS 27048: ÿc2D2BSÿc0 :: Profile sonic not found
+[07/29/19 22:20:45] D2BS 27048: D2BS Shutdown complete.
+[07/29/19 22:20:45] D2BS 25484: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:20:45] D2BS 25484: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:20:45] D2BS 25484: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:20:45] D2BS 25484: ÿc2D2BSÿc0 :: Profile sonic not found
+[07/29/19 22:20:47] D2BS 25484: D2BS Shutdown complete.
+[07/29/19 22:20:56] D2BS 5864: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:20:56] D2BS 5864: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:20:56] D2BS 5864: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:20:56] D2BS 5864: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:20:56] D2BS 5864: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:20:56] D2BS 5864: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:20:56] D2BS 5864: sonic
+[07/29/19 22:21:02] D2BS 5864: Heartbeat loaded
+[07/29/19 22:21:02] D2BS 5864: Recieved Game Info
+[07/29/19 22:21:21] D2BS 5864: Creating Game: fnpmbvxkfspcr44
+[07/29/19 22:21:23] D2BS 5864: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:21:23] D2BS 5864: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:21:23] D2BS 5864: [Error] Code(0) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+Line: (null)
+[07/29/19 22:21:23] D2BS 5864: [ÿc1Errorÿc0 (0)] File(kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+[07/29/19 22:21:39] D2BS 5864: D2BS Shutdown complete.
+[07/29/19 22:21:56] D2BS 15876: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:21:57] D2BS 15876: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:21:57] D2BS 15876: sonic
+[07/29/19 22:21:57] D2BS 15876: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:21:57] D2BS 15876: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:21:57] D2BS 15876: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:21:57] D2BS 15876: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:21:58] D2BS 15876: Recieved Game Info
+[07/29/19 22:21:58] D2BS 15876: Heartbeat loaded
+[07/29/19 22:22:25] D2BS 15876: Creating Game: d0m6s27yi6h2suz
+[07/29/19 22:22:42] D2BS 15876: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:22:42] D2BS 15876: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:22:42] D2BS 15876: [Error] Code(0) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+Line: (null)
+[07/29/19 22:22:42] D2BS 15876: [ÿc1Errorÿc0 (0)] File(kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+[07/29/19 22:23:17] D2BS 15876: control not found 6 430 381 location null
+[07/29/19 22:23:27] D2BS 15876: Creating Game: ty8mv6wc0lddpal
+[07/29/19 22:23:27] D2BS 15876: control not found 6 594 433 location null
+[07/29/19 22:24:12] D2BS 15876: ReferenceError: classes is not defined
+[07/29/19 22:24:16] D2BS 15876: ReferenceError: classes is not defined
+[07/29/19 22:24:43] D2BS 15876: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:24:43] D2BS 15876: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:24:43] D2BS 15876: [Error] Code(0) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+Line: (null)
+[07/29/19 22:24:44] D2BS 15876: [ÿc1Errorÿc0 (0)] File(kolbot\libs\common\config.js:85) Error: �c1Failed to load default config.
+[07/29/19 22:24:55] D2BS 15876: D2BS Shutdown complete.
+[07/29/19 22:25:16] D2BS 23156: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:25:16] D2BS 23156: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:25:16] D2BS 23156: sonic
+[07/29/19 22:25:16] D2BS 23156: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:25:16] D2BS 23156: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:25:16] D2BS 23156: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:25:16] D2BS 23156: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:25:18] D2BS 23156: Recieved Game Info
+[07/29/19 22:25:18] D2BS 23156: Heartbeat loaded
+[07/29/19 22:25:46] D2BS 23156: Creating Game: 4b1b3kplp5qxsvh
+[07/29/19 22:25:47] D2BS 23156: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:25:47] D2BS 23156: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:25:47] D2BS 23156: [Error] Code(0) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\common\config.js:100) Error: �c1Failed to load default config.
+Line: (null)
+[07/29/19 22:25:47] D2BS 23156: Sorceress
+[07/29/19 22:25:47] D2BS 23156: [ÿc1Errorÿc0 (0)] File(kolbot\libs\common\config.js:100) Error: �c1Failed to load default config.
+[07/29/19 22:26:02] D2BS 23156: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:26:02] D2BS 23156: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:26:02] D2BS 23156: [Error] Code(0) File(d:\development\d2bot-with-kolbot-sonic\d2bs\kolbot\libs\common\config.js:100) Error: �c1Failed to load default config.
+Line: (null)
+[07/29/19 22:26:02] D2BS 23156: Sorceress
+[07/29/19 22:26:02] D2BS 23156: [ÿc1Errorÿc0 (0)] File(kolbot\libs\common\config.js:100) Error: �c1Failed to load default config.
+[07/29/19 22:26:27] D2BS 23156: D2BS Shutdown complete.
+[07/29/19 22:27:06] D2BS 23432: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:27:06] D2BS 23432: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:27:06] D2BS 23432: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:27:06] D2BS 23432: sonic
+[07/29/19 22:27:06] D2BS 23432: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:27:06] D2BS 23432: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:27:06] D2BS 23432: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:27:08] D2BS 23432: Heartbeat loaded
+[07/29/19 22:27:08] D2BS 23432: Recieved Game Info
+[07/29/19 22:27:35] D2BS 23432: Creating Game: vhp2ci2ai63hp34
+[07/29/19 22:27:36] D2BS 23432: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:27:36] D2BS 23432: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:27:36] D2BS 23432: Sorceress
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2quest.nip�c4. Lines: �c247�c4. Valid entries: �c235/35. �c4Time: �c20 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2expansion_sorc.nip�c4. Lines: �c276�c4. Valid entries: �c20/28. �c4Time: �c216 
+[07/29/19 22:27:36] D2BS 23432:  ms
+[07/29/19 22:27:36] D2BS 23432: Sorceress
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2expansion_merc.nip�c4. Lines: �c218�c4. Valid entries: �c20/7. �c4Time: �c215 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2expansion_charms.nip�c4. Lines: �c214�c4. Valid entries: �c20/9. �c4Time: �c20 
+[07/29/19 22:27:36] D2BS 23432:  ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2expansion_runewords.nip�c4. Lines: �c233�c4. Valid entries: �c212/12. �c4Time: 
+[07/29/19 22:27:36] D2BS 23432:  �c20 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Crafted.nip�c4. Lines: �c243�c4. Valid entries: �c22/2. �c4Time: �c216 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Magic.nip�c4. Lines: �c2432�c4. Valid entries: �c2167/167. �c4Time: �c231 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Misc.nip�c4. Lines: �c2101�c4. Valid entries: �c232/32. �c4Time: �c216 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Rare.nip�c4. Lines: �c2138�c4. Valid entries: �c289/89. �c4Time: �c216 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Set.nip�c4. Lines: �c2197�c4. Valid entries: �c226/26. �c4Time: �c215 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Unid.nip�c4. Lines: �c2169�c4. Valid entries: �c288/88. �c4Time: �c216 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2Unique.nip�c4. Lines: �c2288�c4. Valid entries: �c2100/100. �c4Time: �c215 ms
+[07/29/19 22:27:36] D2BS 23432: �c4Loaded NIP: �c2White.nip�c4. Lines: �c2133�c4. Valid entries: �c279/79. �c4Time: �c232 ms
+[07/29/19 22:27:37] D2BS 23432: SonicBuild: Loaded template start
+[07/29/19 22:27:37] D2BS 23432: �c3Start ToolsThread script
+[07/29/19 22:27:37] D2BS 23432: Sorceress
+[07/29/19 22:27:37] D2BS 23432: Sorceress
+[07/29/19 22:27:37] D2BS 23432: �c2Starting script: �c9Sonic
+[07/29/19 22:28:27] D2BS 23432: �c7Picked up �c0Damaged Dagger �c0(ilvl 1) (Equip char tier: 1)
+[07/29/19 22:28:27] D2BS 23432: �c7Picked up �c44 Gold
+[07/29/19 22:28:40] D2BS 23432: �c7Picked up �c44 Gold
+[07/29/19 22:28:40] D2BS 23432: �c7Picked up �c0Low Quality Cap �c0(ilvl 1) (Equip char tier: 4)
+[07/29/19 22:28:58] D2BS 23432: �c7Picked up �c41 Gold
+[07/29/19 22:29:00] D2BS 23432: �c7Picked up �c3Light Mana Potion �c0(ilvl 1) (quest.nip #30)
+[07/29/19 22:29:26] D2BS 23432: �c7Picked up �c0Damaged Leather Gloves �c0(ilvl 1) (Equip char tier: 2)
+[07/29/19 22:29:36] D2BS 23432: �c7Picked up �c3Light Mana Potion �c0(ilvl 1) (quest.nip #30)
+[07/29/19 22:29:36] D2BS 23432: �c7Picked up �c1Minor Healing Potion �c0(ilvl 1) (quest.nip #35)
+[07/29/19 22:30:17] D2BS 23432: �c7Picked up �c0Leather Armor �c0(ilvl 1) (Equip char tier: 16)
+[07/29/19 22:30:24] D2BS 23432: �c7Picked up �c3Minor Mana Potion �c0(ilvl 1) (quest.nip #29)
+[07/29/19 22:30:41] D2BS 23432: �c2Drinking potion from inventory.
+[07/29/19 22:30:56] D2BS 23432: �c7Picked up �c42 Gold
+[07/29/19 22:30:56] D2BS 23432: �c7Picked up �c3Light Mana Potion �c0(ilvl 1) (quest.nip #30)
+[07/29/19 22:30:57] D2BS 23432: �c7Picked up �c3Throwing Knife �c0(ilvl 1)
+[07/29/19 22:30:57] D2BS 23432: �c7Picked up �c0Superior Buckler �c0(ilvl 1) (Equip char tier: 5)
+[07/29/19 22:31:25] D2BS 23432: �c2Drinking potion from inventory.
+[07/29/19 22:32:09] D2BS 23432: �c7Picked up �c44 Gold
+[07/29/19 22:32:09] D2BS 23432: �c7Picked up �c41 Gold
+[07/29/19 22:32:17] D2BS 23432: �c7Picked up �c0Crude Buckler �c0(ilvl 2) (Equip char tier: 5)
+[07/29/19 22:32:18] D2BS 23432: �c7Picked up �c0Low Quality Cap �c0(ilvl 2) (Equip char tier: 4)
+[07/29/19 22:32:22] D2BS 23432: �c2Drinking potion from inventory.
+[07/29/19 22:33:39] D2BS 23432: �c7Picked up �c3Minor Mana Potion �c0(ilvl 1) (quest.nip #29)
+[07/29/19 22:34:22] D2BS 23432: �c7Picked up �c43 Gold
+[07/29/19 22:34:24] D2BS 23432: D2BS Shutdown complete.
+[07/29/19 22:34:25] D2BS 14992: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:34:25] D2BS 14992: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:34:25] D2BS 14992: sonic
+[07/29/19 22:34:25] D2BS 14992: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:34:25] D2BS 14992: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:34:25] D2BS 14992: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:34:25] D2BS 14992: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:34:28] D2BS 14992: Heartbeat loaded
+[07/29/19 22:34:28] D2BS 14992: Recieved Game Info
+[07/29/19 22:34:47] D2BS 14992: Creating Game: 95cgu7dz4en25ui
+[07/29/19 22:34:49] D2BS 14992: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:34:49] D2BS 14992: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2quest.nip�c4. Lines: �c247�c4. Valid entries: �c235/35. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2expansion_sorc.nip�c4. Lines: �c276�c4. Valid entries: �c20/28. �c4Time: �c216 
+[07/29/19 22:34:49] D2BS 14992:  ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2expansion_merc.nip�c4. Lines: �c218�c4. Valid entries: �c20/7. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2expansion_charms.nip�c4. Lines: �c214�c4. Valid entries: �c20/9. �c4Time: �c20 
+[07/29/19 22:34:49] D2BS 14992:  ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2expansion_runewords.nip�c4. Lines: �c233�c4. Valid entries: �c212/12. �c4Time: 
+[07/29/19 22:34:49] D2BS 14992:  �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Crafted.nip�c4. Lines: �c243�c4. Valid entries: �c22/2. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Magic.nip�c4. Lines: �c2432�c4. Valid entries: �c2167/167. �c4Time: �c231 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Misc.nip�c4. Lines: �c2101�c4. Valid entries: �c232/32. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Rare.nip�c4. Lines: �c2138�c4. Valid entries: �c289/89. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Set.nip�c4. Lines: �c2197�c4. Valid entries: �c226/26. �c4Time: �c216 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Unid.nip�c4. Lines: �c2169�c4. Valid entries: �c288/88. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2Unique.nip�c4. Lines: �c2288�c4. Valid entries: �c2100/100. �c4Time: �c215 ms
+[07/29/19 22:34:49] D2BS 14992: �c4Loaded NIP: �c2White.nip�c4. Lines: �c2133�c4. Valid entries: �c279/79. �c4Time: �c20 ms
+[07/29/19 22:34:49] D2BS 14992: SonicBuild: Loaded template start
+[07/29/19 22:34:49] D2BS 14992: LowGold sell Short Staff
+[07/29/19 22:34:49] D2BS 14992: initNPC: clearInventory
+[07/29/19 22:34:49] D2BS 14992: �c3Start ToolsThread script
+[07/29/19 22:34:53] D2BS 14992: D2BS Shutdown complete.
+[07/29/19 22:35:08] D2BS 16044: ÿc2D2BSÿc0 :: Started Console Script
+[07/29/19 22:35:08] D2BS 16044: D2BS Engine startup complete. 1.5.1872U
+[07/29/19 22:35:08] D2BS 16044: sonic
+[07/29/19 22:35:08] D2BS 16044: ÿc2D2BSÿc0 :: Engine startup complete!
+[07/29/19 22:35:08] D2BS 16044: ÿc2D2BSÿc0 :: Switched to profile sonic
+[07/29/19 22:35:08] D2BS 16044: ÿc2D2BSÿc0 :: Starting D2BotSonic.dbj
+[07/29/19 22:35:08] D2BS 16044: ÿc2D2BSÿc0 :: D2BotSonic.dbj running.
+[07/29/19 22:35:10] D2BS 16044: Heartbeat loaded
+[07/29/19 22:35:10] D2BS 16044: Recieved Game Info
+[07/29/19 22:35:42] D2BS 16044: Creating Game: eghj1vvfq96qlsl
+[07/29/19 22:35:43] D2BS 16044: ÿc2D2BSÿc0 :: Starting default.dbj
+[07/29/19 22:35:43] D2BS 16044: ÿc2D2BSÿc0 :: default.dbj running.
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2quest.nip�c4. Lines: �c247�c4. Valid entries: �c235/35. �c4Time: �c216 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2expansion_sorc.nip�c4. Lines: �c276�c4. Valid entries: �c20/28. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2expansion_merc.nip�c4. Lines: �c218�c4. Valid entries: �c20/7. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2expansion_charms.nip�c4. Lines: �c214�c4. Valid entries: �c20/9. �c4Time: �c20 
+[07/29/19 22:35:43] D2BS 16044:  ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2expansion_runewords.nip�c4. Lines: �c233�c4. Valid entries: �c212/12. �c4Time: 
+[07/29/19 22:35:43] D2BS 16044:  �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Crafted.nip�c4. Lines: �c243�c4. Valid entries: �c22/2. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Magic.nip�c4. Lines: �c2432�c4. Valid entries: �c2167/167. �c4Time: �c215 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Misc.nip�c4. Lines: �c2101�c4. Valid entries: �c232/32. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Rare.nip�c4. Lines: �c2138�c4. Valid entries: �c289/89. �c4Time: �c216 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Set.nip�c4. Lines: �c2197�c4. Valid entries: �c226/26. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Unid.nip�c4. Lines: �c2169�c4. Valid entries: �c288/88. �c4Time: �c216 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2Unique.nip�c4. Lines: �c2288�c4. Valid entries: �c2100/100. �c4Time: �c20 ms
+[07/29/19 22:35:43] D2BS 16044: �c4Loaded NIP: �c2White.nip�c4. Lines: �c2133�c4. Valid entries: �c279/79. �c4Time: �c215 ms
+[07/29/19 22:35:44] D2BS 16044: SonicBuild: Loaded template start
+[07/29/19 22:35:44] D2BS 16044: �c2Starting script: �c9Sonic
+[07/29/19 22:35:44] D2BS 16044: �c3Start ToolsThread script
+[07/29/19 22:36:07] D2BS 16044: �c7Picked up �c43 Gold
+[07/29/19 22:36:32] D2BS 16044: �c1Pausing.
+[07/29/19 22:36:32] D2BS 16044: Taking portal
+[07/29/19 22:36:32] D2BS 16044: initNPC: heal
+[07/29/19 22:36:45] D2BS 16044: Taking portal
+[07/29/19 22:36:45] D2BS 16044: �c2Resuming.
+[07/29/19 22:37:10] D2BS 16044: �c1Pausing.
+[07/29/19 22:37:10] D2BS 16044: Town.goToTown: Failed to make TP
+[07/29/19 22:37:10] D2BS 16044: Script default.dbj ended
+[07/29/19 22:37:10] D2BS 16044: Script libs\sonic\tools\sonicbuild.js ended
+[07/29/19 22:37:10] D2BS 16044: Script tools\autobuildthread.js ended
+[07/29/19 22:37:10] D2BS 16044: Script tools\toolsthread.js ended
+[07/29/19 22:37:10] D2BS 16044: Script tools\townchicken.js ended
+[07/29/19 22:40:55] D2BS 16044: Creating Game: 4cy95tpasaabfag
+[07/29/19 22:40:55] D2BS 16044: D2BS Shutdown complete.

@@ -1,0 +1,100 @@
+//UTILITY
+[Type] == Gold # [Gold] >= 750
+[Name] == ScrollofTownPortal 
+[Name] == ScrollofIdentify
+
+//UBERS
+//[Name] == KeyOfTerror
+//[Name] == KeyOfHate
+//[Name] == KeyOfDestruction
+//[Name] == KeyOfTerror 		# # [MaxQuantity] == 10
+//[Name] == KeyOfHate 			# # [MaxQuantity] == 10
+//[Name] == KeyOfDestruction 	# # [MaxQuantity] == 10
+//[Name] == MephistosBrain
+//[Name] == BaalsEye
+//[Name] == DiablosHorn
+
+//TOKENS
+//[Name] == TwistedEssenceOfSuffering 		# # [MaxQuantity] == 2
+//[Name] == ChargedEssenceOfHatred 			# # [MaxQuantity] == 2
+//[Name] == BurningEssenceOfTerror 			# # [MaxQuantity] == 2
+//[Name] == FesteringEssenceOfDestruction 	# # [MaxQuantity] == 2
+[Name] == TokenOfAbsolution 				# # [MaxQuantity] == 5
+
+//RUNES
+//[Name] == ElRune 	# # [MaxQuantity] == 1
+//[Name] == EldRune # # [MaxQuantity] == 1
+//[Name] == TirRune # # [MaxQuantity] == 1
+//[Name] == NefRune # # [MaxQuantity] == 1
+//[Name] == EthRune # # [MaxQuantity] == 1
+//[Name] == IthRune # # [MaxQuantity] == 1
+//[Name] == TalRune	# # [MaxQuantity] == 1
+//[Name] == RalRune # # [MaxQuantity] == 1
+//[Name] == OrtRune # # [MaxQuantity] == 1
+//[Name] == ThulRune # # [MaxQuantity] == 1
+//[Name] == AmnRune # # [MaxQuantity] == 1
+//[Name] == SolRune # # [MaxQuantity] == 1
+//[Name] == ShaelRune # # [MaxQuantity] == 1
+//[Name] == DolRune # # [MaxQuantity] == 1
+//[Name] == HelRune # # [MaxQuantity] == 1
+//[Name] == IoRune 	# # [MaxQuantity] == 1
+//[Name] == LumRune # # [MaxQuantity] == 1
+//[Name] == KoRune 	# # [MaxQuantity] == 1
+//[Name] == FalRune # # [MaxQuantity] == 1
+//[Name] == LemRune # # [MaxQuantity] == 1
+//[Name] == PulRune # # [MaxQuantity] == 1
+//[Name] == UmRune 	# # [MaxQuantity] == 2
+//[Name] == MalRune # # [MaxQuantity] == 10
+//[Name] == IstRune # # [MaxQuantity] == 10
+//[Name] == GulRune # # [MaxQuantity] == 10
+[Name] == VexRune # # [MaxQuantity] == 10
+[Name] == OhmRune # # [MaxQuantity] == 10
+[Name] == LoRune 	# # [MaxQuantity] == 10
+//[Name] == SurRune # # [MaxQuantity] == 10
+[Name] == BerRune # # [MaxQuantity] == 10
+[Name] == JahRune # # [MaxQuantity] == 10
+//[Name] == ChamRune # # [MaxQuantity] == 10
+[Name] == ZodRune # # [MaxQuantity] == 10
+
+//GEMS
+//[Name] == ChippedAmethyst 	# # [MaxQuantity] == 1
+//[Name] == ChippedDiamond 		# # [MaxQuantity] == 1
+//[Name] == ChippedEmerald 		# # [MaxQuantity] == 1
+//[Name] == ChippedRuby 		# # [MaxQuantity] == 1
+//[Name] == ChippedSapphire 	# # [MaxQuantity] == 1
+//[Name] == ChippedSkull 		# # [MaxQuantity] == 1
+//[Name] == ChippedTopaz 		# # [MaxQuantity] == 1
+//[Name] == FlawedAmethyst 		# # [MaxQuantity] == 1
+//[Name] == FlawedDiamond 		# # [MaxQuantity] == 1
+//[Name] == FlawedEmerald 		# # [MaxQuantity] == 1
+//[Name] == FlawedRuby 			# # [MaxQuantity] == 1
+//[Name] == FlawedSapphire 		# # [MaxQuantity] == 1
+//[Name] == FlawedSkull 		# # [MaxQuantity] == 1
+//[Name] == FlawedTopaz 		# # [MaxQuantity] == 1
+//[Name] == Amethyst 			# # [MaxQuantity] == 2
+//[Name] == Diamond 			# # [MaxQuantity] == 1
+//[Name] == Emerald 			# # [MaxQuantity] == 1
+//[Name] == Ruby 				# # [MaxQuantity] == 2
+//[Name] == Skull 				# # [MaxQuantity] == 1
+//[Name] == Sapphire 			# # [MaxQuantity] == 2
+//[Name] == Topaz 				# # [MaxQuantity] == 1
+//[Name] == FlawlessAmethyst 	# # [MaxQuantity] == 3
+//[Name] == FlawlessDiamond 	# # [MaxQuantity] == 3
+//[Name] == FlawlessEmerald 	# # [MaxQuantity] == 3
+//[Name] == FlawlessRuby 		# # [MaxQuantity] == 3
+//[Name] == FlawlessSapphire 	# # [MaxQuantity] == 3
+//[Name] == FlawlessSkull 		# # [MaxQuantity] == 3
+//[Name] == FlawlessTopaz 		# # [MaxQuantity] == 3
+[Name] == PerfectAmethyst 		# # [MaxQuantity] == 10
+[Name] == PerfectDiamond 		# # [MaxQuantity] == 10
+[Name] == PerfectEmerald 		# # [MaxQuantity] == 10
+[Name] == PerfectRuby 			# # [MaxQuantity] == 10
+[Name] == PerfectSapphire 		# # [MaxQuantity] == 10
+[Name] == PerfectSkull 			# # [MaxQuantity] == 10
+[Name] == PerfectTopaz 			# # [MaxQuantity] == 10
+
+//POTIONS
+[Name] == SuperHealingPotion
+[Name] == SuperManaPotion
+[Name] == RejuvenationPotion
+[Name] == FullRejuvenationPotion

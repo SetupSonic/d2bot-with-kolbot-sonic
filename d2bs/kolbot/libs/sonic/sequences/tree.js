@@ -1,0 +1,6 @@
+/**
+ *    @filename   tree.js
+ *    @desc       get scroll from tree in dark wood
+ */
+
+var _0x9ecf=['\x64\x6f\x50\x72\x65\x63\x61\x73\x74','\x6d\x6f\x76\x65\x54\x6f\x50\x72\x65\x73\x65\x74','\x61\x72\x65\x61','\x63\x6c\x65\x61\x72','\x63\x68\x65\x63\x6b\x51\x75\x65\x73\x74','\x67\x65\x74\x49\x74\x65\x6d','\x6f\x76\x65\x72\x68\x65\x61\x64','\x64\x6f\x43\x68\x6f\x72\x65\x73','\x63\x68\x65\x63\x6b\x57\x50','\x67\x65\x74\x57\x50','\x75\x73\x65\x57\x61\x79\x70\x6f\x69\x6e\x74'];(function(_0xacc9e9,_0x5ec5db){var _0x2a5f22=function(_0x2b0117){while(--_0x2b0117){_0xacc9e9['\x70\x75\x73\x68'](_0xacc9e9['\x73\x68\x69\x66\x74']());}};_0x2a5f22(++_0x5ec5db);}(_0x9ecf,0x19b));var _0xf9ec=function(_0x731161,_0x4ad7f3){_0x731161=_0x731161-0x0;var _0x2142e1=_0x9ecf[_0x731161];return _0x2142e1;};function tree(){if(Packet[_0xf9ec('0x0')](0x4,0x4)){return!![];}if(me[_0xf9ec('0x1')](0x20c)||me[_0xf9ec('0x1')](0x20d)){return!![];}me[_0xf9ec('0x2')]('\x73\x74\x61\x72\x74\x69\x6e\x67\x20\x74\x72\x65\x65');Town[_0xf9ec('0x3')]();if(!Pather[_0xf9ec('0x4')](0x5)){Pather[_0xf9ec('0x5')](0x5,!![]);}else{Pather[_0xf9ec('0x6')](0x5);}Precast[_0xf9ec('0x7')](!![]);if(!Pather[_0xf9ec('0x8')](me[_0xf9ec('0x9')],0x1,0x2e2,0x0,0x0,!![])){return![];}Attack[_0xf9ec('0xa')](0x14);return Quest[_0xf9ec('0x1')](0x20c,0x1e);}

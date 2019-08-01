@@ -1,0 +1,6 @@
+/**
+ *    @filename   tunnels.js
+ *    @desc       clear ancient tunnels in lost city
+ */
+
+var _0x37ba=['\x6f\x76\x65\x72\x68\x65\x61\x64','\x73\x74\x61\x72\x74\x69\x6e\x67\x20\x74\x75\x6e\x6e\x65\x6c\x73','\x64\x6f\x43\x68\x6f\x72\x65\x73','\x63\x68\x65\x63\x6b\x57\x50','\x67\x65\x74\x57\x50','\x75\x73\x65\x57\x61\x79\x70\x6f\x69\x6e\x74','\x64\x6f\x50\x72\x65\x63\x61\x73\x74','\x63\x6c\x65\x61\x72\x4c\x65\x76\x65\x6c','\x6d\x6f\x76\x65\x54\x6f\x50\x72\x65\x73\x65\x74','\x61\x72\x65\x61','\x6f\x70\x65\x6e\x43\x68\x65\x73\x74','\x70\x69\x63\x6b\x49\x74\x65\x6d\x73'];(function(_0x4925cb,_0x5e47fe){var _0x3c5f80=function(_0x6fcffc){while(--_0x6fcffc){_0x4925cb['\x70\x75\x73\x68'](_0x4925cb['\x73\x68\x69\x66\x74']());}};_0x3c5f80(++_0x5e47fe);}(_0x37ba,0xb4));var _0xa37b=function(_0x483d3e,_0x129a0b){_0x483d3e=_0x483d3e-0x0;var _0xbc523d=_0x37ba[_0x483d3e];return _0xbc523d;};function tunnels(){Config['\x54\x65\x6c\x65\x53\x74\x6f\x6d\x70']=![];me[_0xa37b('0x0')](_0xa37b('0x1'));Town[_0xa37b('0x2')]();if(!Pather[_0xa37b('0x3')](0x2c)){Pather[_0xa37b('0x4')](0x2c);}else{Pather[_0xa37b('0x5')](0x2c);}Precast[_0xa37b('0x6')](!![]);if(!Pather['\x6a\x6f\x75\x72\x6e\x65\x79\x54\x6f'](0x41,![])){return!![];}Attack[_0xa37b('0x7')]();Pather[_0xa37b('0x8')](me[_0xa37b('0x9')],0x2,0x18d);Misc[_0xa37b('0xa')](getUnit(0x2,0x18d));Pickit[_0xa37b('0xb')]();return!![];}

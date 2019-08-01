@@ -1,0 +1,143 @@
+// Shopbot pickit for kolbot by kolton
+// All lines are commented out. Remove the // at the beginning of a pickit line to search for the item.
+// Early release version
+// Last edit: 20.Nov.2014.
+
+//     ===============
+//   ===== Classic =====
+//     ===============
+
+// High level Paladin scepter (Ormus; Nightmare - Grand Scepter type, Hell - War Scepter type)
+//[type] == scepter # [paladinskills] == 2 && [fcr] == 10 && ([skillblessedhammer] == 3 || [skillconcentration] == 3)
+//[type] == scepter # [paladinskills] == 2 && [skillblessedhammer]+[skillconcentration] == 6
+//[type] == scepter # [paladinskills] == 2 && [fcr] == 10
+
+// Enchant staff (Ormus)
+//[type] == staff # [sorceressskills] == 2 && [skillenchant] == 3 // Any color (green is plain +2)
+//[type] == staff && [color] == darkred # [sorceressskills] == 2 && [skillenchant] == 3
+//[type] == staff && [color] == darkblue # [sorceressskills] == 2 && [skillenchant] == 3
+//[type] == staff && [color] == darkyellow # [sorceressskills] == 2 && [skillenchant] == 3
+//[type] == staff && [color] == darkgold # [sorceressskills] == 2 && [skillenchant] == 3
+//[type] == staff && [color] == crystalred # [sorceressskills] == 2 && [skillenchant] == 3
+
+//[name] == crystalsword # [barbarianskills] == 2
+
+//      ====================
+//	  ======  Expansion ======
+//      ====================
+
+// Contents for easy search (Ctrl+F):
+// category					search phrase
+//
+// level 9 shields			$9s
+// level 9 weapons			$9w
+// level 18 weapons			$18w
+// level 30 armor			$30a
+// level 30 shields			$30s
+// level 30 weapons			$30w
+// high lvl shields			$hs
+// high lvl armor			$ha
+// high lvl weapons			$hw
+// high lvl gloves			$hg
+// high lvl belts			$hbl
+// high lvl boots			$hbt
+
+
+//		====  Level 9 ====
+
+//      --- Shields [$9s] ---
+//[name] == boneshield # [fbr] == 30 && [itemdamagetomana] == 12 // [N]Dronan, [N]Ormus, [N]Anya
+
+//      --- Weapons [$9w] ---
+//[name] == warscepter # ([enhanceddamage] >= 40 || [tohit] >= 80 || [enhanceddamage] >= 30 && [tohit] >= 40) && [itemchargedskill] == 96 && [itemlevelreq] <= 9 // [H]Akara, [H]Drognan, [H]Ormus, [H]Jamella, [H]Malah; level 95+ char for level 11 charges
+//[name] == bladetalons # ([enhanceddamage] >= 40 || [tohit] >= 80 || [enhanceddamage] >= 30 && [tohit] >= 40) && [ias] == 10 && [itemlevelreq] <= 9 // [H]Anya
+//[type] == wand && [quality] <= superior # [skillclaygolem]+[skillamplifydamage]+[skillbonearmor] == 9 && [itemlevelreq] <= 9 // [N]Akara, [N]Drognan
+
+
+//		====  Level 18 ====
+
+//      --- Weapons [$18w] ---
+
+//[name] == bonewand || [name] == grimwand # [fcr] == 10 && [poisonandboneskilltab] == 1 && [skillbonespear] == 3 && [itemlevelreq] <= 18 // [H]Akara, [H]Drognan, [H]Ormus, [H]Jamella
+//[type] == scepter && [quality] <= superior # [skillconcentration]+[skillblessedhammer] == 6 && [itemlevelreq] <= 18 // [N]Drognan; **Level <= 19 character at [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == scepter # [palicombatskilltab] == 1 && [fcr] == 10 && [skillconcentration]+[skillblessedhammer] == 6 && [itemlevelreq] <= 18 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == scepter # [palicombatskilltab] == 1 && [hpregen] >= 10 && [skillconcentration]+[skillblessedhammer] == 6 && [itemlevelreq] <= 18 // [H]Akara, [H]Drognan, [H]Ormus etc.
+
+
+//		====  Level 30 ====
+
+//      --- Armor [$30a] ---
+//[name] == breastplate && [quality] == magic # [sockets] == 3 && [maxhp] == 80 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == lightplate && [quality] == magic # [sockets] == 3 && [maxhp] == 80 && [itemlevelreq] <= 30 // [H]Anya
+//[name] == mageplate && [quality] == magic # [sockets] == 3 && [maxhp] == 80 && [itemlevelreq] <= 30 // [H]Anya
+
+//      --- Shields [$30s] ---
+//[name] == kiteshield # [defense] == 18 && [fbr] == 30 && [sockets] == 3 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == towershield # [defense] == 25 && [fbr] == 30 && [sockets] == 3 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == dragonshield # [defense] == 67 && [fbr] == 30 && [sockets] == 3 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == pavise # [defense] == 78 && [fbr] == 30 && [sockets] == 3 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == pavise # [enhanceddefense] == 100 && [fbr] == 30 && [itemlevelreq] <= 30 // [NM]Fara
+//[name] == barbedshield && [quality] == magic # [palicombatskilltab] == 2 && [fbr] == 30 // [NM]Drognan, [H]Anya
+
+//      --- Weapons [$30w] ---
+//([name] == bonewand || [name] == grimwand) && [quality] <= superior # [skillbonespear]+[skillclaygolem]+[skillgolemmastery] == 9 && ([sockets] == 0 || [sockets] == 2) // [N]Drognan; **Level <= 19 character at [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == wand # [poisonandboneskilltab] == 2 && [fcr] == 20 && [skillbonespear]+[skillbonespirit] == 6 && [itemlevelreq] <= 30 // [H]Drognan, [H]Ormus, etc.
+//[type] == scepter # [palicombatskilltab] == 2 && [skillconcentration]+[skillblessedhammer] == 6 && [itemlevelreq] <= 30 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == scepter # [palicombatskilltab] == 2 && [fcr] == 10 && [skillconcentration]+[skillblessedhammer] == 6 && [itemlevelreq] <= 30 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[name] == warscepter || [name] == divinescepter # [sockets] == 3 && [skillfanaticism] == 3 && [itemskillonhit] == 66 && [itemlevelreq] <= 30 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[name] == handscythe # ([trapsskilltab] == 2 || [assassinskills] == 1) && [skillwakeoffire] == 3 && [itemlevelreq] <= 30 // [NM]Fara, [NM]Elzix
+//[name] == handscythe # ([trapsskilltab] == 2 || [assassinskills] == 1) && [skilllightningsentry] == 3 && [itemlevelreq] <= 30 // [NM]Fara, [NM]Elzix
+//[name] == cutlass # [palicombatskilltab] == 2 && [itemskillonhit] == 66 && [itemlevelreq] <= 30 // [NM]Fara, [NM]Elzix
+//[name] == cutlass # [enhanceddamage] == 100 && [ias] == 30 && [itemlevelreq] <= 30 // [NM]Fara, [NM]Elzix
+//[name] == flail # [sockets] == 3 && [itemskillonhit] == 66 && [itemlevelreq] <= 30 // [H]Fara
+//[name] == knout # [sockets] == 3 && [itemskillonhit] == 66 && [itemlevelreq] <= 30 // [NM]Fara
+
+
+//		====  High Level ====
+
+//      --- Weapons [$hw] ---
+//[type] == scepter # ([paladinskills] == 2 || [palicombatskilltab] == 3) && [skillconcentration]+[skillblessedhammer] == 6 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == scepter # ([paladinskills] == 2 || [palicombatskilltab] == 3) && [skillfistoftheheavens]+[skillconviction] == 6 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[type] == scepter # [palicombatskilltab]+[skillholyshield] == 6 // [H]Akara, [H]Drognan, [H]Ormus etc.
+//[name] == fangedknife # [enhanceddamage] == 300 && [ias] == 40 // [H]Fara, [H]Malah
+//[name] == cinquedeas # [enhanceddamage] == 300 && [ias] == 40 // [NM]Fara, [H]Fara, [NM]Malah, [H]Malah
+//[name] == crystalsword # [warcriesskilltab] == 3 && [strength] == 30 // [H]Ormus
+//[name] == barbedclub # [warcriesskilltab] == 3 && [strength] == 30 // [NM]Elzix
+//[name] == mace # [warcriesskilltab] == 3 && [strength] == 30 // [NM]Elzix
+//[name] == morningstar # [warcriesskilltab] == 3 && [strength] == 30 // [NM]Fara, [NM]Elzix
+//[name] == giantsword # [warcriesskilltab] == 3 && [strength] == 30 // [NM]Fara
+//[name] == giantsword # [warcriesskilltab] == 3 && [itemskillonattack] == 39 // [NM]Fara
+//[name] == greatertalons && [quality] == magic # [assassinskills] == 2 && [skilllightningsentry] == 3 // [H]Anya
+//[name] == greatertalons && [quality] == magic # [trapsskilltab] == 3 && [skilllightningsentry] == 3 // [H]Anya
+//([name] == greatertalons || [name] == runictalons) && [quality] == magic # [itemtohitperlevel] > 15 && [ias] >= 30 && [skilllightningsentry] == 3 // [H]Anya
+//([name] == greatertalons || [name] == runictalons) && [quality] == magic # [sockets] == 3 && [ias] >= 30 && [skillvenom] == 3 // [H]Anya
+//[type] == handtohand && [quality] == magic # [assassinskills] == 2 && [skilllightningsentry] == 3 // [H]Anya
+//[type] == handtohand && [quality] == magic # [trapsskilltab] == 3 && [skilllightningsentry] == 3 // [H]Anya
+//[type] == handtohand && [quality] == magic # [shadowdisciplinesskilltab] == 3 && ([skillfade] == 3 || [skillvenom] == 3) // [H]Anya
+//[type] == handtohand && [quality] == magic # [shadowdisciplinesskilltab] == 3 && [skillfade]+[skillvenom] == 6 // [H]Anya
+
+//      --- Armor [$ha] ---
+//[name] == breastplate && [quality] == superior && [flag] != ethereal # [sockets] == 3 && [enhanceddefense] == 15 && [itemmaxdurabilitypercent] == 15 // [N]Fara
+//[name] == ringmail && [quality] == superior && [flag] != ethereal # [sockets] == 3 && [enhanceddefense] == 15 && [itemmaxdurabilitypercent] == 15 // [N]Fara
+//[name] == gothicplate && [quality] == magic # [sockets] == 4 && [maxhp] == 100 // [H]Ormus
+//[name] == gothicplate && [quality] == magic # [sockets] == 4 && [fhr] == 24 // [H]Ormus
+//[name] == archonplate && [quality] == magic # [sockets] == 4 && [maxhp] == 100 // [H]Anya
+//[name] == archonplate && [quality] == magic # [sockets] == 4 && [fhr] == 24 // [H]Anya
+//[name] == ancientarmor && [quality] == magic # [sockets] == 4 && [maxhp] == 100 // [H]Anya
+//[name] == ancientarmor && [quality] == magic # [sockets] == 4 && [fhr] == 24 // [H]Anya
+
+//      --- Gloves [$hg] ---
+[type] == gloves # [javelinandspearskilltab] == 3 && [ias] == 20 // [H]Anya, [NM]Fara etc.
+
+//      --- Boots [$hbl] ---
+//[type] == boots # [itemgoldbonus] == 80 && [fireresist] == 40 // [H]Anya
+//[type] == boots # [maxmana] == 40 && [frw] == 40 // [H]Anya
+
+//      --- Boots [$hbt] ---
+//[type] == belt && [name] >= platedbelt # [itemgoldbonus] == 80 && [fireresist] == 30 // [NM]Fara
+
+//      =============================
+//	  ======  Temporary/Unsorted ======
+//      =============================
+
+//[name] == handscythe && [quality] == magic && [level] >= 90 # # [maxquantity] == 1

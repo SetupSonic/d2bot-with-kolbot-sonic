@@ -1,0 +1,43 @@
+[
+  {
+    "profile": "all",
+    "account": "",
+    "password": "passwordy",
+    "charName": "",
+    "realm": "europe",
+    "ladder": true,
+    "expansion": true,
+    "hardcore": false,
+    "respecLevel": 24,
+    "beforeRespecBuild": "start",
+    "afterRespecbuild": "xblizzard"
+  },
+
+  {
+    "profile": "ESonic1",
+    "account": "",
+    "password": "passwordy",
+    "charName": "",
+    "realm": "useast",
+    "ladder": true,
+    "expansion": true,
+    "hardcore": false,
+    "respecLevel": 24,
+    "beforeRespecBuild": "start",
+    "afterRespecbuild": "xblizzard"
+  },
+
+  {
+    "profile": "ESonic2",
+    "account": "",
+    "password": "passwordy",
+    "charName": "",
+    "realm": "useast",
+    "ladder": true,
+    "expansion": true,
+    "hardcore": false,
+    "respecLevel": 24,
+    "beforeRespecBuild": "start",
+    "afterRespecbuild": "xblizzard"
+  }
+]

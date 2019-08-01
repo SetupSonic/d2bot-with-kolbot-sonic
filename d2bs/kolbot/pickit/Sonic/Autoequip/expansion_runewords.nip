@@ -1,0 +1,32 @@
+[type] == polearm && [Flag] == Runeword # [strength] >= 1 && [fcr] == 35
+
+// Insight Rune Word
+//me.diff == 0 && ([name] == Voulge || [name] == Scythe || [name] == Poleaxe || [name] == WarScythe) && [quality] <= superior && [Flag] != Runeword # [sockets] == 4 # [MaxQuantity] == 1
+//me.diff == 1 && ([name] == Voulge || [name] == Scythe || [name] == Poleaxe || [name] == WarScythe || [name] == Bill || [name] == BattleScythe || [name] == Partizan || [name] == GrimScythe) && [quality] <= superior && [Flag] != Runeword # [sockets] == 4 # [MaxQuantity] == 1
+//me.diff == 2 && ([name] == ColossusVoulge || [name] == Thresher || [name] == CrypticAxe || [name] == GiantThresher) && [quality] <= superior && [Flag] != Runeword # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 0 && ([name] == Voulge || [name] == Scythe || [name] == Poleaxe || [name] == WarScythe) && [quality] <= superior # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 1 && ([name] == Voulge || [name] == Scythe || [name] == Poleaxe || [name] == WarScythe || [name] == Bill || [name] == BattleScythe || [name] == Partizan || [name] == GrimScythe) && [quality] <= superior # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 2 && me.charlvl <= 85 && ([name] == Thresher || [name] == CrypticAxe || [name] == GiantThresher) && [quality] <= superior # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 2 && ([name] == Thresher || [name] == CrypticAxe || [name] == GiantThresher) && [quality] <= superior && [flag] == ethereal # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 2 && [name] == ColossusVoulge && [quality] <= superior && [flag] == ethereal # [sockets] == 4 # [MaxQuantity] == 1
+
+// Ancient's Pledge Rune Word // Ral + Ort + Tal
+//me.diff < 2 && ([Name] == GrimShield || [Name] == BoneShield || [Name] == KiteShield || [Name] == LargeShield) && [Quality] <= Superior && [Flag] != Ethereal && [Flag] != Runeword # [Sockets] == 3 # [MaxQuantity] == 1
+me.diff < 2 && ([Name] == GrimShield || [Name] == BoneShield || [Name] == KiteShield || [Name] == LargeShield) && [Quality] <= Superior && [Flag] != Ethereal # [Sockets] == 3 # [MaxQuantity] == 1
+
+// Treachery Rune Word // Shael + Thul + Lem
+//([name] == RingMail || [name] == LightPlate || [name] == mageplate || [name] == WireFleece || [name] == DuskShroud || [name] == BreastPlate) && [quality] == superior && [Flag] != Runeword # [sockets] == 3 # [MaxQuantity] == 1
+me.charlvl <= 87 && ([name] == RingMail || [name] == LightPlate || [name] == mageplate || [name] == WireFleece || [name] == DuskShroud || [name] == BreastPlate) && [quality] == superior # [sockets] == 3 # [MaxQuantity] == 1
+
+// Lore Rune Word // Ort + Sol
+//me.diff == 0 && ([name] == SkullCap || [name] == Mask || [name] == BoneHelm) && [quality] <= superior && [flag] != ethereal && [Flag] != Runeword # [sockets] == 2 # [MaxQuantity] == 1
+
+// Smoke Rune Word // Nef + Lum
+//me.diff < 2 && ([name] == SerpentskinArmor || [name] == GhostArmor || [name] == LightPlate || [name] == BreastPlate || [name] == RingMail || [name] == StuddedLeather || [name] == HardLeatherArmor || [name] == LeatherArmor || [name] == QuiltedArmor) && [quality] == superior && [Flag] != Runeword # [sockets] == 2 # [MaxQuantity] == 1
+me.diff < 2 && ([name] == SerpentskinArmor || [name] == GhostArmor || [name] == LightPlate || [name] == BreastPlate || [name] == RingMail || [name] == StuddedLeather || [name] == HardLeatherArmor || [name] == LeatherArmor || [name] == QuiltedArmor) && [quality] == superior # [sockets] == 2 # [MaxQuantity] == 1
+
+// Spirit Rune Word // Tal + Thul + Ort + Amn
+//me.diff < 2 && ([name] == BroadSword || [name] == crystalsword) && [quality] <= superior && [flag] != ethereal && [Flag] != Runeword # [sockets] == 4 # [MaxQuantity] == 1
+me.diff < 2 && ([name] == BroadSword || [name] == crystalsword) && [quality] <= superior && [flag] != ethereal # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 2 && me.charlvl >= 85 && [name] == Monarch && [quality] <= superior && [flag] != ethereal # [sockets] == 4 # [MaxQuantity] == 1
+me.diff == 2 && me.charlvl >= 85 && [name] == SacredTarge && [Quality] <= Superior && [Flag] != Ethereal # [FireResist] >= 45 && [Sockets] == 4 # [MaxQuantity] == 1

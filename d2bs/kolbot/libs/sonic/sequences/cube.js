@@ -1,0 +1,6 @@
+/**
+ *    @filename   cube.js
+ *    @desc       get cube from halls of dead
+ */
+
+var _0xb01c=['\x63\x6c\x65\x61\x72','\x67\x65\x74\x49\x74\x65\x6d','\x73\x74\x61\x73\x68\x49\x74\x65\x6d','\x6f\x76\x65\x72\x68\x65\x61\x64','\x64\x6f\x43\x68\x6f\x72\x65\x73','\x63\x68\x65\x63\x6b\x57\x50','\x67\x65\x74\x57\x50','\x75\x73\x65\x57\x61\x79\x70\x6f\x69\x6e\x74','\x6d\x6f\x76\x65\x54\x6f\x50\x72\x65\x73\x65\x74','\x61\x72\x65\x61'];(function(_0x214e46,_0x13314d){var _0x2aa417=function(_0x1b630a){while(--_0x1b630a){_0x214e46['\x70\x75\x73\x68'](_0x214e46['\x73\x68\x69\x66\x74']());}};_0x2aa417(++_0x13314d);}(_0xb01c,0x111));var _0xcb01=function(_0x3979de,_0x398ef0){_0x3979de=_0x3979de-0x0;var _0x3056dd=_0xb01c[_0x3979de];return _0x3056dd;};function cube(){if(me['\x67\x65\x74\x49\x74\x65\x6d'](0x225)){return!![];}me[_0xcb01('0x0')]('\x73\x74\x61\x72\x74\x69\x6e\x67\x20\x63\x75\x62\x65');Town[_0xcb01('0x1')]();if(!Pather[_0xcb01('0x2')](0x39)){Pather[_0xcb01('0x3')](0x39,!![]);}else{Pather[_0xcb01('0x4')](0x39);}Pather['\x6d\x6f\x76\x65\x54\x6f\x45\x78\x69\x74'](0x3c,!![],!![]);Pather[_0xcb01('0x5')](me[_0xcb01('0x6')],0x2,0x162,0x0,0x0,!![]);Attack[_0xcb01('0x7')](0x14);Quest[_0xcb01('0x8')](0x225,0x162);Quest[_0xcb01('0x9')](0x225);return me[_0xcb01('0x8')](0x225);}
